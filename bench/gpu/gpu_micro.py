@@ -26,7 +26,7 @@ def bw_test():
     for gb in (1, 4, 16):
         n = (gb << 30) // 4
         a = cp.ones(n, dtype=cp.float32); b = cp.empty_like(a)
-        t = ev_time(lambda: b.__setitem__(slice(None), a), 10)
+        t = ev_time(lambda: b.__setitem__(slice(None), a), 10)  # noqa: F821
         print("RESULT " + json.dumps(dict(test="d2d_copy", GB=gb, s=t, rw_gbps=2 * a.nbytes / t / 1e9)), flush=True)
         del a, b; cp.get_default_memory_pool().free_all_blocks()
 
@@ -50,7 +50,7 @@ def gate_sweep(n, dtype):
             wsp = cp.empty(max(ws, 1), dtype=cp.uint8)
 
             def apply():
-                cusv.apply_matrix(h, sv.data.ptr, sv_type, n, mat.data.ptr, sv_type, cusv.MatrixLayout.ROW, 0,
+                cusv.apply_matrix(h, sv.data.ptr, sv_type, n, mat.data.ptr, sv_type, cusv.MatrixLayout.ROW, 0,  # noqa: F821
                                   targets.ctypes.data, 1, controls.ctypes.data if ctl else 0, 0, len(ctl), comp,
                                   wsp.data.ptr, ws)
             reps = 20 if n <= 28 else 5

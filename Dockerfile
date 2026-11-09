@@ -2,7 +2,8 @@
 #   docker build -t sv30q .  &&  docker run --rm sv30q make test reproduce
 FROM mambaorg/micromamba:2.0.5
 USER root
-RUN apt-get update && apt-get install -y --no-install-recommends make git && rm -rf /var/lib/apt/lists/*
+RUN apt-get update && apt-get install -y --no-install-recommends make git && rm -rf /var/lib/apt/lists/* \
+ && mkdir -p /opt/envs && chown $MAMBA_USER:$MAMBA_USER /opt/envs
 USER $MAMBA_USER
 COPY --chown=$MAMBA_USER:$MAMBA_USER setup/env_fpga.yml setup/env_cpu.yml /tmp/setup/
 RUN micromamba create -y -p /opt/envs/fpga -f /tmp/setup/env_fpga.yml \

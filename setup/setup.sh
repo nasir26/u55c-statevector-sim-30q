@@ -10,7 +10,7 @@ PY_FPGA=${PY_FPGA:-$ENVS/fpga/bin/python}; PY_CPU=${PY_CPU:-$ENVS/cpu/bin/python
 create() {  # create <name> <interpreter>
   if [ -x "$2" ]; then echo "$1: using $2"; return; fi
   command -v "$MM" >/dev/null || { echo "micromamba not found; install it or set MICROMAMBA, or pass PY_$1"; exit 2; }
-  "$MM" create -y -p "$ENVS/$1" -f "setup/env_$1.yml"
+  "$MM" create -y -p "$(realpath -m "$ENVS/$1")" -f "setup/env_$1.yml"   # absolute prefix: pip needs it
 }
 create fpga "$PY_FPGA"; create cpu "$PY_CPU"
 "$PY_FPGA" -c "import sys, qiskit, numpy; assert sys.version_info[:2] == (3, 8), sys.version; print('fpga env: python', sys.version.split()[0], 'qiskit', qiskit.__version__, 'numpy', numpy.__version__)"
