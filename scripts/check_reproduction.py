@@ -69,11 +69,11 @@ def main():
 
     tracked = git("ls-files", "--", *DIRS).decode().split()
     for path in tracked:
-        committed = git("show", f"HEAD:{path}").decode()
-        current = open(os.path.join(ROOT, path)).read()
+        committed = git("show", f"HEAD:{path}")
+        current = open(os.path.join(ROOT, path), "rb").read()
         if committed == current:
             continue
-        diff = changed_lines(committed, current)
+        diff = changed_lines(committed.decode(), current.decode()) or ["(line endings or line order changed)"]
         ok = allowed.get(path, set())
         unexplained = [x for x in diff if "*" not in ok and not any(x.startswith(p) for p in ok)]
         if unexplained:
