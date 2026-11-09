@@ -1,0 +1,52 @@
+name: ci
+
+# Hardware-free checks on every push: lint, the compiler and golden model against Qiskit, the runtime on a mocked
+# XRT, and the full reproduction of tables, macros and figures from results/raw/. The C simulation needs the Vitis
+# HLS headers and the hardware suite needs a card; neither is available on GitHub runners.
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install ruff==0.8.4
+      - run: make lint PY_CPU=python
+
+  test-and-reproduce:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: mamba-org/setup-micromamba@v2
+        with:
+          micromamba-version: "2.0.5-0"
+      - uses: actions/cache@v4
+        with:
+          path: envs
+          key: envs-${{ runner.os }}-${{ hashFiles('setup/env_fpga.yml', 'setup/env_cpu.yml') }}
+      - name: make setup
+        run: make setup MICROMAMBA="$MAMBA_EXE"
+      - name: make test
+        run: make test
+      - name: make reproduce
+        run: make reproduce
+
+  docker:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    if: github.event_name != 'pull_request'
+    steps:
+      - uses: actions/checkout@v4
+      - run: docker build -t sv30q .
+      - run: docker run --rm sv30q make test reproduce
