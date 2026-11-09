@@ -1,0 +1,16 @@
+[project]
+name = "u55c-statevector-sim-30q"
+version = "1.0.0"
+description = "HLS statevector quantum circuit simulator for 30 qubits on one AMD Alveo U55C, with CPU and GPU baselines"
+authors = [{ name = "Nasir Ali" }]
+requires-python = ">=3.8"
+readme = "README.md"
+# License: pending, see LICENSE_PENDING.md.
+
+[tool.ruff]
+line-length = 120
+target-version = "py38"
+extend-exclude = ["envs", "build", "host/v07", "kernels/v07"]   # v07: the original baseline, kept unchanged
+
+[tool.ruff.lint]
+select = ["E9", "F63", "F7", "F82"]   # syntax errors, invalid comparisons, statement errors, undefined names

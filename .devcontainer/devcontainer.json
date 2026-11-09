@@ -1,0 +1,5 @@
+{
+  "name": "u55c-statevector-sim-30q",
+  "build": { "dockerfile": "../Dockerfile", "context": ".." },
+  "remoteEnv": { "PY_FPGA": "/opt/envs/fpga/bin/python", "PY_CPU": "/opt/envs/cpu/bin/python" }
+}

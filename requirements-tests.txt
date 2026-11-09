@@ -1,0 +1,5 @@
+# Hardware-free tests with pip on Python 3.11 (versions of setup/env_cpu.yml). The exact environments used for the
+# paper are setup/env_fpga.yml and setup/env_cpu.yml (make setup).
+qiskit==2.5.2
+numpy==2.4.6
+scipy==1.17.1

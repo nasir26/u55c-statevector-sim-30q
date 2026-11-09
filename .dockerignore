@@ -1,0 +1,5 @@
+envs/
+build/
+cache/
+tmp/
+**/__pycache__/

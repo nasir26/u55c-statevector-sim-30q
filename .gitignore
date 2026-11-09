@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+# environments, caches, scratch, build outputs
+envs/
+cache/
+tmp/
+build/
+# Vitis / Vivado / HLS outputs (rebuilt by v++, see README)
+*.xclbin
+*.xo
+*.xsa
+*.dcp
+*.jou
+*.wdb
+*.pb
+_x/
+.ipcache/
+.Xil/
+.autopilot/
+.run/
+vivado*.log
+v++*.log
+xcd.log
+*_hls/
+# LaTeX
+paper/revised/figures/
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.out
+*.synctex.gz
+paper/revised/main.pdf
+paper/revised/main.log
+# editors and OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+# credentials never belong here
+.env
+*.pem
+*token*
+*_guidance.html
