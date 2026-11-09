@@ -1,0 +1,29 @@
+System Configuration
+  OS Name              : Linux
+  Release              : 5.15.0-139-generic
+  Version              : #149~20.04.1-Ubuntu SMP Wed Apr 16 08:29:56 UTC 2025
+  Machine              : x86_64
+  CPU Cores            : 256
+  Memory               : 515766 MB
+  Distribution         : Ubuntu 20.04.6 LTS
+  GLIBC                : 2.31
+  Model                : MZ72-HB2-00
+
+XRT
+  Version              : 2.16.204
+  Branch               : 2023.2
+  Hash                 : fa4c0045003fed0acea4593788dce5ef6d0b66ee
+  Hash Date            : 2023-10-11 23:46:00
+  XOCL                 : 2.16.204, fa4c0045003fed0acea4593788dce5ef6d0b66ee
+  XCLMGMT              : 2.16.204, fa4c0045003fed0acea4593788dce5ef6d0b66ee
+
+Devices present
+BDF             :  Shell                            Logic UUID                            Device ID       Device Ready*  
+-------------------------------------------------------------------------------------------------------------------------
+[0000:01:00.1]  :  xilinx_u55c_gen3x16_xdma_base_3  97088961-FEAE-DA91-52A2-1D9DFD63CCEF  user(inst=129)  Yes            
+[0000:21:00.1]  :  xilinx_u55c_gen3x16_xdma_base_3  97088961-FEAE-DA91-52A2-1D9DFD63CCEF  user(inst=128)  Yes            
+[0000:41:00.1]  :  xilinx_u55c_gen3x16_xdma_base_3  97088961-FEAE-DA91-52A2-1D9DFD63CCEF  user(inst=130)  Yes            
+[0000:a1:00.1]  :  xilinx_u55c_gen3x16_xdma_base_3  97088961-FEAE-DA91-52A2-1D9DFD63CCEF  user(inst=131)  Yes            
+
+
+* Devices that are not ready will have reduced functionality when using XRT tools

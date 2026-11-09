@@ -1,0 +1,227 @@
+[2026-10-07T05:13:58+05:30] 0000:a1:00.1 ablate: start load=81.53 74.37 43.93 2/3911 552697 vivado=0 pin=64-79 threads=8
+ghz_26           rep-1 P= 1 kernel    0.8464s exch   0.0000s e2e    1.1251s passes=6 remaps=0 F=None
+ghz_26           rep 0 P= 1 kernel    0.8464s exch   0.0000s e2e    1.1269s passes=6 remaps=0 F=None
+ghz_26           rep 1 P= 1 kernel    0.8463s exch   0.0000s e2e    1.1255s passes=6 remaps=0 F=None
+ghz_26           rep 2 P= 1 kernel    0.8466s exch   0.0000s e2e    1.1292s passes=6 remaps=0 F=None
+qft_26           rep-1 P= 1 kernel   10.7996s exch   0.0000s e2e   11.1875s passes=52 remaps=0 F=None
+qft_26           rep 0 P= 1 kernel   10.7997s exch   0.0000s e2e   11.1831s passes=52 remaps=0 F=None
+qft_26           rep 1 P= 1 kernel   10.7997s exch   0.0000s e2e   11.1863s passes=52 remaps=0 F=None
+qft_26           rep 2 P= 1 kernel   10.7997s exch   0.0000s e2e   11.1796s passes=52 remaps=0 F=None
+rqc_26_d10       rep-1 P= 1 kernel   11.2155s exch   0.0000s e2e   11.6089s passes=32 remaps=0 F=None
+rqc_26_d10       rep 0 P= 1 kernel   11.2155s exch   0.0000s e2e   11.6097s passes=32 remaps=0 F=None
+rqc_26_d10       rep 1 P= 1 kernel   11.2156s exch   0.0000s e2e   11.6122s passes=32 remaps=0 F=None
+rqc_26_d10       rep 2 P= 1 kernel   11.2156s exch   0.0000s e2e   11.6091s passes=32 remaps=0 F=None
+vqe_26_L2        rep-1 P= 1 kernel    3.8404s exch   0.0000s e2e    4.2312s passes=13 remaps=0 F=None
+vqe_26_L2        rep 0 P= 1 kernel    3.8402s exch   0.0000s e2e    4.2137s passes=13 remaps=0 F=None
+vqe_26_L2        rep 1 P= 1 kernel    3.8402s exch   0.0000s e2e    4.2413s passes=13 remaps=0 F=None
+vqe_26_L2        rep 2 P= 1 kernel    3.8401s exch   0.0000s e2e    4.2358s passes=13 remaps=0 F=None
+ghz_26           rep-1 P= 2 kernel    0.4694s exch   0.0249s e2e    0.6913s passes=7 remaps=1 F=None
+ghz_26           rep 0 P= 2 kernel    0.4697s exch   0.0250s e2e    0.7064s passes=7 remaps=1 F=None
+ghz_26           rep 1 P= 2 kernel    0.4692s exch   0.0250s e2e    0.6948s passes=7 remaps=1 F=None
+ghz_26           rep 2 P= 2 kernel    0.4692s exch   0.0249s e2e    0.6880s passes=7 remaps=1 F=None
+qft_26           rep-1 P= 2 kernel    5.4352s exch   0.0994s e2e    5.8334s passes=53 remaps=5 F=None
+qft_26           rep 0 P= 2 kernel    5.4354s exch   0.0997s e2e    5.8383s passes=53 remaps=5 F=None
+qft_26           rep 1 P= 2 kernel    5.4355s exch   0.0997s e2e    5.8451s passes=53 remaps=5 F=None
+qft_26           rep 2 P= 2 kernel    5.4358s exch   0.0998s e2e    5.8429s passes=53 remaps=5 F=None
+rqc_26_d10       rep-1 P= 2 kernel    5.6294s exch   0.1238s e2e    6.0665s passes=34 remaps=5 F=None
+rqc_26_d10       rep 0 P= 2 kernel    5.6301s exch   0.1237s e2e    6.0687s passes=34 remaps=5 F=None
+rqc_26_d10       rep 1 P= 2 kernel    5.6292s exch   0.1245s e2e    6.0912s passes=34 remaps=5 F=None
+rqc_26_d10       rep 2 P= 2 kernel    5.6297s exch   0.1247s e2e    6.0743s passes=34 remaps=5 F=None
+vqe_26_L2        rep-1 P= 2 kernel    1.9368s exch   0.0500s e2e    2.2987s passes=14 remaps=2 F=None
+vqe_26_L2        rep 0 P= 2 kernel    1.9371s exch   0.0499s e2e    2.3140s passes=14 remaps=2 F=None
+vqe_26_L2        rep 1 P= 2 kernel    1.9370s exch   0.0498s e2e    2.3138s passes=14 remaps=2 F=None
+vqe_26_L2        rep 2 P= 2 kernel    1.9368s exch   0.0500s e2e    2.2951s passes=14 remaps=2 F=None
+ghz_26           rep-1 P= 4 kernel    0.2356s exch   0.0510s e2e    0.4608s passes=7 remaps=2 F=None
+ghz_26           rep 0 P= 4 kernel    0.2355s exch   0.0504s e2e    0.4533s passes=7 remaps=2 F=None
+ghz_26           rep 1 P= 4 kernel    0.2357s exch   0.0502s e2e    0.4639s passes=7 remaps=2 F=None
+ghz_26           rep 2 P= 4 kernel    0.2360s exch   0.0504s e2e    0.4574s passes=7 remaps=2 F=None
+qft_26           rep-1 P= 4 kernel    2.7790s exch   0.2258s e2e    3.2925s passes=56 remaps=10 F=None
+qft_26           rep 0 P= 4 kernel    2.7789s exch   0.2266s e2e    3.2861s passes=56 remaps=10 F=None
+qft_26           rep 1 P= 4 kernel    2.7799s exch   0.2254s e2e    3.2959s passes=56 remaps=10 F=None
+qft_26           rep 2 P= 4 kernel    2.7788s exch   0.2258s e2e    3.2999s passes=56 remaps=10 F=None
+rqc_26_d10       rep-1 P= 4 kernel    2.8389s exch   0.2225s e2e    3.3635s passes=37 remaps=9 F=None
+rqc_26_d10       rep 0 P= 4 kernel    2.8396s exch   0.2228s e2e    3.3704s passes=37 remaps=9 F=None
+rqc_26_d10       rep 1 P= 4 kernel    2.8390s exch   0.2238s e2e    3.3583s passes=37 remaps=9 F=None
+rqc_26_d10       rep 2 P= 4 kernel    2.8388s exch   0.2234s e2e    3.3612s passes=37 remaps=9 F=None
+vqe_26_L2        rep-1 P= 4 kernel    0.9703s exch   0.1011s e2e    1.3608s passes=14 remaps=4 F=None
+vqe_26_L2        rep 0 P= 4 kernel    0.9710s exch   0.1010s e2e    1.3602s passes=14 remaps=4 F=None
+vqe_26_L2        rep 1 P= 4 kernel    0.9703s exch   0.1010s e2e    1.3313s passes=14 remaps=4 F=None
+vqe_26_L2        rep 2 P= 4 kernel    0.9702s exch   0.1008s e2e    1.3582s passes=14 remaps=4 F=None
+ghz_26           rep-1 P= 8 kernel    0.1314s exch   0.0609s e2e    0.3553s passes=8 remaps=3 F=None
+ghz_26           rep 0 P= 8 kernel    0.1312s exch   0.0621s e2e    0.3591s passes=8 remaps=3 F=None
+ghz_26           rep 1 P= 8 kernel    0.1312s exch   0.0615s e2e    0.3584s passes=8 remaps=3 F=None
+ghz_26           rep 2 P= 8 kernel    0.1312s exch   0.0618s e2e    0.3595s passes=8 remaps=3 F=None
+qft_26           rep-1 P= 8 kernel    1.4198s exch   0.2859s e2e    1.9813s passes=58 remaps=15 F=None
+qft_26           rep 0 P= 8 kernel    1.4196s exch   0.2857s e2e    1.9737s passes=58 remaps=15 F=None
+qft_26           rep 1 P= 8 kernel    1.4204s exch   0.2853s e2e    1.9785s passes=58 remaps=15 F=None
+qft_26           rep 2 P= 8 kernel    1.4201s exch   0.2858s e2e    1.9755s passes=58 remaps=15 F=None
+rqc_26_d10       rep-1 P= 8 kernel    1.4240s exch   0.2838s e2e    1.9936s passes=38 remaps=14 F=None
+rqc_26_d10       rep 0 P= 8 kernel    1.4255s exch   0.2845s e2e    2.0051s passes=38 remaps=14 F=None
+rqc_26_d10       rep 1 P= 8 kernel    1.4251s exch   0.2840s e2e    2.0014s passes=38 remaps=14 F=None
+rqc_26_d10       rep 2 P= 8 kernel    1.4221s exch   0.2831s e2e    1.9917s passes=38 remaps=14 F=None
+vqe_26_L2        rep-1 P= 8 kernel    0.4976s exch   0.1226s e2e    0.9035s passes=16 remaps=6 F=None
+vqe_26_L2        rep 0 P= 8 kernel    0.4969s exch   0.1219s e2e    0.9047s passes=16 remaps=6 F=None
+vqe_26_L2        rep 1 P= 8 kernel    0.4986s exch   0.1221s e2e    0.9051s passes=16 remaps=6 F=None
+vqe_26_L2        rep 2 P= 8 kernel    0.4979s exch   0.1232s e2e    0.9036s passes=16 remaps=6 F=None
+ghz_26           rep-1 P=16 kernel    0.0735s exch   0.0770s e2e    0.3064s passes=9 remaps=4 F=None
+ghz_26           rep 0 P=16 kernel    0.0730s exch   0.0727s e2e    0.3032s passes=9 remaps=4 F=None
+ghz_26           rep 1 P=16 kernel    0.0735s exch   0.0740s e2e    0.3071s passes=9 remaps=4 F=None
+ghz_26           rep 2 P=16 kernel    0.0734s exch   0.0781s e2e    0.3098s passes=9 remaps=4 F=None
+qft_26           rep-1 P=16 kernel    0.7446s exch   0.3669s e2e    1.3935s passes=63 remaps=22 F=None
+qft_26           rep 0 P=16 kernel    0.7447s exch   0.3639s e2e    1.3909s passes=63 remaps=22 F=None
+qft_26           rep 1 P=16 kernel    0.7452s exch   0.3643s e2e    1.3867s passes=63 remaps=22 F=None
+qft_26           rep 2 P=16 kernel    0.7458s exch   0.3663s e2e    1.3927s passes=63 remaps=22 F=None
+rqc_26_d10       rep-1 P=16 kernel    0.7265s exch   0.3084s e2e    1.3240s passes=42 remaps=18 F=None
+rqc_26_d10       rep 0 P=16 kernel    0.7258s exch   0.3108s e2e    1.3219s passes=42 remaps=18 F=None
+rqc_26_d10       rep 1 P=16 kernel    0.7271s exch   0.3088s e2e    1.3351s passes=42 remaps=18 F=None
+rqc_26_d10       rep 2 P=16 kernel    0.7339s exch   0.3111s e2e    1.3344s passes=42 remaps=18 F=None
+vqe_26_L2        rep-1 P=16 kernel    0.2581s exch   0.1473s e2e    0.6862s passes=17 remaps=8 F=None
+vqe_26_L2        rep 0 P=16 kernel    0.2587s exch   0.1442s e2e    0.6813s passes=17 remaps=8 F=None
+vqe_26_L2        rep 1 P=16 kernel    0.2580s exch   0.1440s e2e    0.6743s passes=17 remaps=8 F=None
+vqe_26_L2        rep 2 P=16 kernel    0.2576s exch   0.1444s e2e    0.6759s passes=17 remaps=8 F=None
+ghz_26           rep-1 P=16 kernel    0.1213s exch   0.0748s e2e    0.3604s passes=10 remaps=4 F=None
+ghz_26           rep 0 P=16 kernel    0.1214s exch   0.0735s e2e    0.3548s passes=10 remaps=4 F=None
+ghz_26           rep 1 P=16 kernel    0.1212s exch   0.0721s e2e    0.3517s passes=10 remaps=4 F=None
+ghz_26           rep 2 P=16 kernel    0.1213s exch   0.0773s e2e    0.3593s passes=10 remaps=4 F=None
+qft_26           rep-1 P=16 kernel    1.2659s exch   0.3642s e2e    1.9073s passes=87 remaps=22 F=None
+qft_26           rep 0 P=16 kernel    1.2655s exch   0.3664s e2e    1.9061s passes=87 remaps=22 F=None
+qft_26           rep 1 P=16 kernel    1.2656s exch   0.3655s e2e    1.9059s passes=87 remaps=22 F=None
+qft_26           rep 2 P=16 kernel    1.2648s exch   0.3665s e2e    1.9027s passes=87 remaps=22 F=None
+rqc_26_d10       rep-1 P=16 kernel    1.0320s exch   0.3101s e2e    1.6242s passes=47 remaps=18 F=None
+rqc_26_d10       rep 0 P=16 kernel    1.0308s exch   0.3105s e2e    1.6294s passes=47 remaps=18 F=None
+rqc_26_d10       rep 1 P=16 kernel    1.0325s exch   0.3101s e2e    1.6374s passes=47 remaps=18 F=None
+rqc_26_d10       rep 2 P=16 kernel    1.0314s exch   0.3090s e2e    1.6822s passes=47 remaps=18 F=None
+vqe_26_L2        rep-1 P=16 kernel    0.3805s exch   0.1468s e2e    0.8525s passes=20 remaps=8 F=None
+vqe_26_L2        rep 0 P=16 kernel    0.3815s exch   0.1459s e2e    0.8215s passes=20 remaps=8 F=None
+vqe_26_L2        rep 1 P=16 kernel    0.3819s exch   0.1435s e2e    0.8088s passes=20 remaps=8 F=None
+vqe_26_L2        rep 2 P=16 kernel    0.3824s exch   0.1461s e2e    0.8078s passes=20 remaps=8 F=None
+ghz_26           rep-1 P=16 kernel    0.0905s exch   0.0764s e2e    0.3300s passes=9 remaps=4 F=None
+ghz_26           rep 0 P=16 kernel    0.0903s exch   0.0743s e2e    0.3244s passes=9 remaps=4 F=None
+ghz_26           rep 1 P=16 kernel    0.0904s exch   0.0730s e2e    0.3261s passes=9 remaps=4 F=None
+ghz_26           rep 2 P=16 kernel    0.0904s exch   0.0738s e2e    0.3243s passes=9 remaps=4 F=None
+qft_26           rep-1 P=16 kernel    0.9545s exch   0.3639s e2e    1.5950s passes=79 remaps=22 F=None
+qft_26           rep 0 P=16 kernel    0.9576s exch   0.3687s e2e    1.6052s passes=79 remaps=22 F=None
+qft_26           rep 1 P=16 kernel    0.9559s exch   0.3678s e2e    1.5982s passes=79 remaps=22 F=None
+qft_26           rep 2 P=16 kernel    0.9546s exch   0.3707s e2e    1.5988s passes=79 remaps=22 F=None
+rqc_26_d10       rep-1 P=16 kernel    0.8548s exch   0.3089s e2e    1.4477s passes=45 remaps=18 F=None
+rqc_26_d10       rep 0 P=16 kernel    0.8549s exch   0.3085s e2e    1.4437s passes=45 remaps=18 F=None
+rqc_26_d10       rep 1 P=16 kernel    0.8538s exch   0.3105s e2e    1.4469s passes=45 remaps=18 F=None
+rqc_26_d10       rep 2 P=16 kernel    0.8542s exch   0.3096s e2e    1.4535s passes=45 remaps=18 F=None
+vqe_26_L2        rep-1 P=16 kernel    0.3026s exch   0.1445s e2e    0.7233s passes=18 remaps=8 F=None
+vqe_26_L2        rep 0 P=16 kernel    0.3016s exch   0.1446s e2e    0.7183s passes=18 remaps=8 F=None
+vqe_26_L2        rep 1 P=16 kernel    0.3018s exch   0.1471s e2e    0.7261s passes=18 remaps=8 F=None
+vqe_26_L2        rep 2 P=16 kernel    0.3017s exch   0.1480s e2e    0.7199s passes=18 remaps=8 F=None
+ghz_26           rep-1 P=16 kernel    0.0764s exch   0.0764s e2e    0.3105s passes=9 remaps=4 F=None
+ghz_26           rep 0 P=16 kernel    0.0760s exch   0.0721s e2e    0.3058s passes=9 remaps=4 F=None
+ghz_26           rep 1 P=16 kernel    0.0761s exch   0.0733s e2e    0.3077s passes=9 remaps=4 F=None
+ghz_26           rep 2 P=16 kernel    0.0762s exch   0.0722s e2e    0.3110s passes=9 remaps=4 F=None
+qft_26           rep-1 P=16 kernel    0.7966s exch   0.3683s e2e    1.4408s passes=69 remaps=22 F=None
+qft_26           rep 0 P=16 kernel    0.7977s exch   0.3675s e2e    1.4455s passes=69 remaps=22 F=None
+qft_26           rep 1 P=16 kernel    0.7978s exch   0.3639s e2e    1.4343s passes=69 remaps=22 F=None
+qft_26           rep 2 P=16 kernel    0.7971s exch   0.3668s e2e    1.4441s passes=69 remaps=22 F=None
+rqc_26_d10       rep-1 P=16 kernel    0.7702s exch   0.3102s e2e    1.3655s passes=44 remaps=18 F=None
+rqc_26_d10       rep 0 P=16 kernel    0.7705s exch   0.3111s e2e    1.3672s passes=44 remaps=18 F=None
+rqc_26_d10       rep 1 P=16 kernel    0.7700s exch   0.3115s e2e    1.3688s passes=44 remaps=18 F=None
+rqc_26_d10       rep 2 P=16 kernel    0.7697s exch   0.3102s e2e    1.3698s passes=44 remaps=18 F=None
+vqe_26_L2        rep-1 P=16 kernel    0.2683s exch   0.1449s e2e    0.6931s passes=18 remaps=8 F=None
+vqe_26_L2        rep 0 P=16 kernel    0.2690s exch   0.1465s e2e    0.6987s passes=18 remaps=8 F=None
+vqe_26_L2        rep 1 P=16 kernel    0.2686s exch   0.1456s e2e    0.6940s passes=18 remaps=8 F=None
+vqe_26_L2        rep 2 P=16 kernel    0.2699s exch   0.1454s e2e    0.6907s passes=18 remaps=8 F=None
+ghz_26           rep-1 P=16 kernel    0.0735s exch   0.0777s e2e    0.3108s passes=9 remaps=4 F=None
+ghz_26           rep 0 P=16 kernel    0.0733s exch   0.0720s e2e    0.3037s passes=9 remaps=4 F=None
+ghz_26           rep 1 P=16 kernel    0.0730s exch   0.0730s e2e    0.3042s passes=9 remaps=4 F=None
+ghz_26           rep 2 P=16 kernel    0.0729s exch   0.0742s e2e    0.3068s passes=9 remaps=4 F=None
+qft_26           rep-1 P=16 kernel    0.7454s exch   0.3681s e2e    1.3922s passes=63 remaps=22 F=None
+qft_26           rep 0 P=16 kernel    0.7447s exch   0.3672s e2e    1.3947s passes=63 remaps=22 F=None
+qft_26           rep 1 P=16 kernel    0.7448s exch   0.3688s e2e    1.3931s passes=63 remaps=22 F=None
+qft_26           rep 2 P=16 kernel    0.7449s exch   0.3677s e2e    1.3974s passes=63 remaps=22 F=None
+rqc_26_d10       rep-1 P=16 kernel    0.7259s exch   0.3081s e2e    1.3195s passes=42 remaps=18 F=None
+rqc_26_d10       rep 0 P=16 kernel    0.7267s exch   0.3088s e2e    1.3179s passes=42 remaps=18 F=None
+rqc_26_d10       rep 1 P=16 kernel    0.7264s exch   0.3082s e2e    1.3231s passes=42 remaps=18 F=None
+rqc_26_d10       rep 2 P=16 kernel    0.7255s exch   0.3084s e2e    1.3182s passes=42 remaps=18 F=None
+vqe_26_L2        rep-1 P=16 kernel    0.2574s exch   0.1448s e2e    0.6845s passes=17 remaps=8 F=None
+vqe_26_L2        rep 0 P=16 kernel    0.2580s exch   0.1455s e2e    0.6828s passes=17 remaps=8 F=None
+vqe_26_L2        rep 1 P=16 kernel    0.2572s exch   0.1448s e2e    0.6760s passes=17 remaps=8 F=None
+vqe_26_L2        rep 2 P=16 kernel    0.2569s exch   0.1439s e2e    0.6740s passes=17 remaps=8 F=None
+ghz_26           rep-1 P=16 kernel    0.0733s exch   0.0762s e2e    0.3075s passes=9 remaps=4 F=None
+ghz_26           rep 0 P=16 kernel    0.0735s exch   0.0717s e2e    0.3059s passes=9 remaps=4 F=None
+ghz_26           rep 1 P=16 kernel    0.0734s exch   0.0733s e2e    0.3058s passes=9 remaps=4 F=None
+ghz_26           rep 2 P=16 kernel    0.0733s exch   0.0776s e2e    0.3106s passes=9 remaps=4 F=None
+qft_26           rep-1 P=16 kernel    0.7470s exch   0.3640s e2e    1.3905s passes=63 remaps=22 F=None
+qft_26           rep 0 P=16 kernel    0.7474s exch   0.3641s e2e    1.3862s passes=63 remaps=22 F=None
+qft_26           rep 1 P=16 kernel    0.7489s exch   0.3647s e2e    1.3919s passes=63 remaps=22 F=None
+qft_26           rep 2 P=16 kernel    0.7467s exch   0.3646s e2e    1.3845s passes=63 remaps=22 F=None
+rqc_26_d10       rep-1 P=16 kernel    0.7920s exch   0.4212s e2e    1.5049s passes=59 remaps=24 F=None
+rqc_26_d10       rep 0 P=16 kernel    0.7913s exch   0.4201s e2e    1.5064s passes=59 remaps=24 F=None
+rqc_26_d10       rep 1 P=16 kernel    0.7907s exch   0.4252s e2e    1.5086s passes=59 remaps=24 F=None
+rqc_26_d10       rep 2 P=16 kernel    0.7907s exch   0.4206s e2e    1.5016s passes=59 remaps=24 F=None
+vqe_26_L2        rep-1 P=16 kernel    0.3861s exch   0.0731s e2e    0.7351s passes=11 remaps=4 F=None
+vqe_26_L2        rep 0 P=16 kernel    0.3859s exch   0.0722s e2e    0.7329s passes=11 remaps=4 F=None
+vqe_26_L2        rep 1 P=16 kernel    0.3861s exch   0.0721s e2e    0.7381s passes=11 remaps=4 F=None
+vqe_26_L2        rep 2 P=16 kernel    0.3859s exch   0.0730s e2e    0.7344s passes=11 remaps=4 F=None
+ghz_26           rep-1 P=16 kernel    0.1534s exch   0.0727s e2e    0.3801s passes=26 remaps=4 F=None
+ghz_26           rep 0 P=16 kernel    0.1534s exch   0.0728s e2e    0.3818s passes=26 remaps=4 F=None
+ghz_26           rep 1 P=16 kernel    0.1543s exch   0.0739s e2e    0.3874s passes=26 remaps=4 F=None
+ghz_26           rep 2 P=16 kernel    0.1539s exch   0.0726s e2e    0.3838s passes=26 remaps=4 F=None
+qft_26           rep-1 P=16 kernel    2.0776s exch   0.3683s e2e    2.7268s passes=351 remaps=22 F=None
+qft_26           rep 0 P=16 kernel    2.0790s exch   0.3659s e2e    2.7187s passes=351 remaps=22 F=None
+qft_26           rep 1 P=16 kernel    2.0774s exch   0.3674s e2e    2.7299s passes=351 remaps=22 F=None
+qft_26           rep 2 P=16 kernel    2.0776s exch   0.3678s e2e    2.7310s passes=351 remaps=22 F=None
+rqc_26_d10       rep-1 P=16 kernel    2.1988s exch   0.3132s e2e    2.8031s passes=377 remaps=18 F=None
+rqc_26_d10       rep 0 P=16 kernel    2.1971s exch   0.3105s e2e    2.7987s passes=377 remaps=18 F=None
+rqc_26_d10       rep 1 P=16 kernel    2.1987s exch   0.3110s e2e    2.8082s passes=377 remaps=18 F=None
+rqc_26_d10       rep 2 P=16 kernel    2.1972s exch   0.3148s e2e    2.8051s passes=377 remaps=18 F=None
+vqe_26_L2        rep-1 P=16 kernel    0.7477s exch   0.1491s e2e    1.1785s passes=128 remaps=8 F=None
+vqe_26_L2        rep 0 P=16 kernel    0.7475s exch   0.1486s e2e    1.1803s passes=128 remaps=8 F=None
+vqe_26_L2        rep 1 P=16 kernel    0.7483s exch   0.1482s e2e    1.1823s passes=128 remaps=8 F=None
+vqe_26_L2        rep 2 P=16 kernel    0.7483s exch   0.1433s e2e    1.1803s passes=128 remaps=8 F=None
+ghz_26           rep-1 P=16 kernel    0.1547s exch   0.0773s e2e    0.3905s passes=26 remaps=4 F=None
+ghz_26           rep 0 P=16 kernel    0.1541s exch   0.0725s e2e    0.3840s passes=26 remaps=4 F=None
+ghz_26           rep 1 P=16 kernel    0.1542s exch   0.0733s e2e    0.3876s passes=26 remaps=4 F=None
+ghz_26           rep 2 P=16 kernel    0.1546s exch   0.0730s e2e    0.3874s passes=26 remaps=4 F=None
+qft_26           rep-1 P=16 kernel    2.0804s exch   0.3726s e2e    2.7354s passes=351 remaps=22 F=None
+qft_26           rep 0 P=16 kernel    2.0747s exch   0.3656s e2e    2.7322s passes=351 remaps=22 F=None
+qft_26           rep 1 P=16 kernel    2.0835s exch   0.3673s e2e    2.7289s passes=351 remaps=22 F=None
+qft_26           rep 2 P=16 kernel    2.0805s exch   0.3653s e2e    2.7240s passes=351 remaps=22 F=None
+rqc_26_d10       rep-1 P=16 kernel    2.2446s exch   0.4244s e2e    2.9659s passes=385 remaps=24 F=None
+rqc_26_d10       rep 0 P=16 kernel    2.2459s exch   0.4297s e2e    2.9761s passes=385 remaps=24 F=None
+rqc_26_d10       rep 1 P=16 kernel    2.2451s exch   0.4222s e2e    2.9647s passes=385 remaps=24 F=None
+rqc_26_d10       rep 2 P=16 kernel    2.2473s exch   0.4185s e2e    2.9611s passes=385 remaps=24 F=None
+vqe_26_L2        rep-1 P=16 kernel    1.1971s exch   0.0730s e2e    1.5462s passes=206 remaps=4 F=None
+vqe_26_L2        rep 0 P=16 kernel    1.1975s exch   0.0759s e2e    1.5525s passes=206 remaps=4 F=None
+vqe_26_L2        rep 1 P=16 kernel    1.1975s exch   0.0730s e2e    1.5517s passes=206 remaps=4 F=None
+vqe_26_L2        rep 2 P=16 kernel    1.1975s exch   0.0741s e2e    1.5544s passes=206 remaps=4 F=None
+ghz_26           rep-1 P=16 kernel    0.0793s exch   0.0864s e2e    0.3249s passes=10 remaps=6 F=None
+ghz_26           rep 0 P=16 kernel    0.0782s exch   0.0836s e2e    0.3230s passes=10 remaps=6 F=None
+ghz_26           rep 1 P=16 kernel    0.0787s exch   0.0839s e2e    0.3230s passes=10 remaps=6 F=None
+ghz_26           rep 2 P=16 kernel    0.0781s exch   0.0842s e2e    0.3249s passes=10 remaps=6 F=None
+qft_26           rep-1 P=16 kernel    0.7031s exch   0.1366s e2e    1.1147s passes=61 remaps=8 F=None
+qft_26           rep 0 P=16 kernel    0.7020s exch   0.1342s e2e    1.1082s passes=61 remaps=8 F=None
+qft_26           rep 1 P=16 kernel    0.7025s exch   0.1359s e2e    1.1102s passes=61 remaps=8 F=None
+qft_26           rep 2 P=16 kernel    0.7020s exch   0.1342s e2e    1.1089s passes=61 remaps=8 F=None
+rqc_26_d10       rep-1 P=16 kernel    0.7323s exch   0.1458s e2e    1.1604s passes=34 remaps=9 F=None
+rqc_26_d10       rep 0 P=16 kernel    0.7312s exch   0.1453s e2e    1.1559s passes=34 remaps=9 F=None
+rqc_26_d10       rep 1 P=16 kernel    0.7313s exch   0.1447s e2e    1.1545s passes=34 remaps=9 F=None
+rqc_26_d10       rep 2 P=16 kernel    0.7314s exch   0.1452s e2e    1.1507s passes=34 remaps=9 F=None
+vqe_26_L2        rep-1 P=16 kernel    0.2636s exch   0.1872s e2e    0.7368s passes=19 remaps=12 F=None
+vqe_26_L2        rep 0 P=16 kernel    0.2633s exch   0.1896s e2e    0.7423s passes=19 remaps=12 F=None
+vqe_26_L2        rep 1 P=16 kernel    0.2641s exch   0.1900s e2e    0.7347s passes=19 remaps=12 F=None
+vqe_26_L2        rep 2 P=16 kernel    0.2635s exch   0.1871s e2e    0.7286s passes=19 remaps=12 F=None
+ghz_26           rep-1 P=16 kernel    0.0753s exch   1.2045s e2e    1.4391s passes=9 remaps=4 F=None
+ghz_26           rep 0 P=16 kernel    0.0756s exch   1.1940s e2e    1.4309s passes=9 remaps=4 F=None
+ghz_26           rep 1 P=16 kernel    0.0746s exch   1.1924s e2e    1.4274s passes=9 remaps=4 F=None
+ghz_26           rep 2 P=16 kernel    0.0749s exch   1.1891s e2e    1.4236s passes=9 remaps=4 F=None
+qft_26           rep-1 P=16 kernel    0.7502s exch   6.0714s e2e    7.1036s passes=63 remaps=22 F=None
+qft_26           rep 0 P=16 kernel    0.7532s exch   6.0587s e2e    7.0905s passes=63 remaps=22 F=None
+qft_26           rep 1 P=16 kernel    0.7493s exch   6.0567s e2e    7.0814s passes=63 remaps=22 F=None
+qft_26           rep 2 P=16 kernel    0.7508s exch   6.0546s e2e    7.0819s passes=63 remaps=22 F=None
+rqc_26_d10       rep-1 P=16 kernel    0.7310s exch   5.1933s e2e    6.2185s passes=42 remaps=18 F=None
+rqc_26_d10       rep 0 P=16 kernel    0.7315s exch   5.1850s e2e    6.2021s passes=42 remaps=18 F=None
+rqc_26_d10       rep 1 P=16 kernel    0.7311s exch   5.2129s e2e    6.2359s passes=42 remaps=18 F=None
+rqc_26_d10       rep 2 P=16 kernel    0.7300s exch   5.2478s e2e    6.2636s passes=42 remaps=18 F=None
+vqe_26_L2        rep-1 P=16 kernel    0.2595s exch   2.3176s e2e    2.8627s passes=17 remaps=8 F=None
+vqe_26_L2        rep 0 P=16 kernel    0.2598s exch   2.3240s e2e    2.8609s passes=17 remaps=8 F=None
+vqe_26_L2        rep 1 P=16 kernel    0.2593s exch   2.3206s e2e    2.8470s passes=17 remaps=8 F=None
+vqe_26_L2        rep 2 P=16 kernel    0.2594s exch   2.3163s e2e    2.8499s passes=17 remaps=8 F=None
+[2026-10-07T05:24:40+05:30] 0000:a1:00.1 ablate: done load=15.04 22.98 30.11 4/3916 565835
+CARDA1_DONE

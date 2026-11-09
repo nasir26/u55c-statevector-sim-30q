@@ -1,0 +1,8 @@
+     32 burst reads RD_WORD
+      1 burst reads VITIS_LOOP_
+      1 burst writes VITIS_LOOP_
+     32 burst writes WR_WORD
+     64 Final II = 1 CP_REP_CP_BLK_CP_WORD
+     64 Final II = 1 RD_REP_RD_BLK_RD_WORD
+      4 Final II = 1 VITIS_LOOP_
+     64 Final II = 1 WR_REP_WR_BLK_WR_WORD

@@ -1,0 +1,11 @@
+[2026-10-07T07:38:04+05:30] load: 0.70 2.47 3.62 7/3890 642550; vivado/v++ procs: 0; governor: ondemand
+[2026-10-07T07:38:16+05:30] triad: {"threads": 128, "n": 536870912, "GB": 12.88, "best_s": 0.0789, "triad_gbps": 163.3, "check": 7.0} {"threads": 256, "n": 536870912, "GB": 12.88, "best_s": 0.0781, "triad_gbps": 165.0, "check": 7.0} {"threads": 64, "n": 268435456, "GB": 6.44, "best_s": 0.0637, "triad_gbps": 101.1, "check": 7.0} 
+[2026-10-07T07:53:20+05:30] aer single fusion=1 done
+[2026-10-07T08:16:00+05:30] aer single fusion=0 done
+[2026-10-07T08:32:32+05:30] aer double fusion=1 done
+[2026-10-07T09:11:56+05:30] aer double fusion=0 done
+[2026-10-07T09:16:57+05:30] aer node0 done
+[2026-10-07T09:23:39+05:30] qsim done
+[2026-10-07T09:37:42+05:30] qulacs done
+[2026-10-07T10:32:13+05:30] numpy done
+[2026-10-07T10:32:13+05:30] CPU_CAMPAIGN_DONE load: 1.17 2.60 9.01 1/3889 737460

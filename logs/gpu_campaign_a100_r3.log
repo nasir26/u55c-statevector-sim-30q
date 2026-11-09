@@ -1,0 +1,6 @@
+rc=143 results=0
+tar: -: Cannot write: Broken pipe
+tar: Child returned status 141
+tar: Error is not recoverable: exiting now
+rc=126 results=0
+CAMPAIGN_R3_DONE

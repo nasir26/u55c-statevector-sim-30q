@@ -1,0 +1,64 @@
+[2026-10-14T09:45:17+05:30] start load=3.71 4.36 6.45 3/4540 3689260
+ghz_24           rep-1 P=16 kernel    0.019s exch   0.041s e2e    0.124s passes=8 remaps=4
+ghz_24           rep 0 P=16 kernel    0.019s exch   0.039s e2e    0.126s passes=8 remaps=4
+ghz_26           rep-1 P=16 kernel    0.075s exch   0.075s e2e    0.312s passes=9 remaps=4
+ghz_26           rep 0 P=16 kernel    0.075s exch   0.073s e2e    0.318s passes=9 remaps=4
+ghz_28           rep-1 P=16 kernel    0.288s exch   0.274s e2e    0.948s passes=9 remaps=4
+ghz_28           rep 0 P=16 kernel    0.287s exch   0.272s e2e    0.943s passes=9 remaps=4
+ghz_29           rep-1 P=16 kernel    0.621s exch   0.547s e2e    1.874s passes=10 remaps=4
+ghz_29           rep 0 P=16 kernel    0.621s exch   0.540s e2e    1.856s passes=10 remaps=4
+ghz_30           rep-1 P=32 kernel    1.336s exch   1.281s e2e    3.956s passes=11 remaps=5
+ghz_30           rep 0 P=32 kernel    1.336s exch   1.281s e2e    3.976s passes=11 remaps=5
+qft_24           rep-1 P=16 kernel    0.176s exch   0.130s e2e    0.479s passes=51 remaps=22
+qft_24           rep 0 P=16 kernel    0.177s exch   0.138s e2e    0.493s passes=51 remaps=22
+qft_26           rep-1 P=16 kernel    0.754s exch   0.367s e2e    1.449s passes=63 remaps=22
+qft_26           rep 0 P=16 kernel    0.755s exch   0.364s e2e    1.467s passes=63 remaps=22
+qft_28           rep-1 P=16 kernel    3.384s exch   1.424s e2e    5.306s passes=75 remaps=22
+qft_28           rep 0 P=16 kernel    3.381s exch   1.422s e2e    5.305s passes=75 remaps=22
+qft_29           rep-1 P=16 kernel    7.211s exch   2.845s e2e   10.853s passes=82 remaps=22
+qft_29           rep 0 P=16 kernel    7.209s exch   2.824s e2e   10.839s passes=82 remaps=22
+qft_30           rep-1 P=32 kernel   15.758s exch   7.116s e2e   24.363s passes=94 remaps=29
+qft_30           rep 0 P=32 kernel   15.760s exch   7.019s e2e   24.265s passes=94 remaps=29
+rqc_24_d10       rep-1 P=16 kernel    0.182s exch   0.092s e2e    0.444s passes=39 remaps=18
+rqc_24_d10       rep 0 P=16 kernel    0.183s exch   0.092s e2e    0.459s passes=39 remaps=18
+rqc_26_d10       rep-1 P=16 kernel    0.731s exch   0.310s e2e    1.344s passes=42 remaps=18
+rqc_26_d10       rep 0 P=16 kernel    0.733s exch   0.311s e2e    1.387s passes=42 remaps=18
+rqc_28_d10       rep-1 P=16 kernel    3.106s exch   1.233s e2e    4.826s passes=46 remaps=18
+rqc_28_d10       rep 0 P=16 kernel    3.106s exch   1.226s e2e    4.828s passes=46 remaps=18
+rqc_29_d10       rep-1 P=16 kernel    6.357s exch   2.361s e2e    9.518s passes=46 remaps=18
+rqc_29_d10       rep 0 P=16 kernel    6.358s exch   2.379s e2e    9.566s passes=46 remaps=18
+rqc_30_d10       rep-1 P=32 kernel   13.265s exch   5.712s e2e   20.481s passes=52 remaps=23
+rqc_30_d10       rep 0 P=32 kernel   13.265s exch   5.707s e2e   20.502s passes=52 remaps=23
+vqe_24_L2        rep-1 P=16 kernel    0.066s exch   0.067s e2e    0.288s passes=15 remaps=8
+vqe_24_L2        rep 0 P=16 kernel    0.066s exch   0.069s e2e    0.307s passes=15 remaps=8
+vqe_26_L2        rep-1 P=16 kernel    0.260s exch   0.145s e2e    0.700s passes=17 remaps=8
+vqe_26_L2        rep 0 P=16 kernel    0.261s exch   0.147s e2e    0.693s passes=17 remaps=8
+vqe_28_L2        rep-1 P=16 kernel    1.083s exch   0.557s e2e    2.137s passes=18 remaps=8
+vqe_28_L2        rep 0 P=16 kernel    1.084s exch   0.552s e2e    2.126s passes=18 remaps=8
+vqe_29_L2        rep-1 P=16 kernel    2.266s exch   1.102s e2e    4.145s passes=20 remaps=8
+vqe_29_L2        rep 0 P=16 kernel    2.265s exch   1.088s e2e    4.133s passes=20 remaps=8
+vqe_30_L2        rep-1 P=32 kernel    4.740s exch   2.529s e2e    8.715s passes=22 remaps=10
+vqe_30_L2        rep 0 P=32 kernel    4.737s exch   2.548s e2e    8.728s passes=22 remaps=10
+parked 0000:41:00.1 on quantum_fpga_kernel_complex128_v06.xclbin
+[2026-10-14T09:53:52+05:30] fpga part done; references
+ghz  n=24  1-F=1.23e-32  max|da|=1.11e-16  |psi|=1.0000000  ref 0.4s
+ghz  n=26  1-F=1.23e-32  max|da|=1.11e-16  |psi|=1.0000000  ref 0.5s
+ghz  n=28  1-F=1.23e-32  max|da|=1.11e-16  |psi|=1.0000000  ref 1.0s
+ghz  n=29  1-F=1.23e-32  max|da|=1.11e-16  |psi|=1.0000000  ref 1.7s
+ghz  n=30  1-F=1.23e-32  max|da|=1.11e-16  |psi|=1.0000000  ref 3.2s
+qft  n=24  1-F=5.24e-29  max|da|=2.20e-18  |psi|=0.9999999  ref 4.4s
+qft  n=26  1-F=5.26e-29  max|da|=1.12e-18  |psi|=0.9999999  ref 5.6s
+qft  n=28  1-F=5.27e-29  max|da|=5.69e-19  |psi|=0.9999999  ref 10.3s
+qft  n=29  1-F=2.44e-26  max|da|=6.76e-18  |psi|=0.9999999  ref 16.9s
+qft  n=30  1-F=5.29e-29  max|da|=2.88e-19  |psi|=0.9999999  ref 31.8s
+rqc  n=24  1-F=2.75e-13  max|da|=2.72e-09  |psi|=0.9999990  ref 6.3s
+rqc  n=26  1-F=2.82e-13  max|da|=2.09e-09  |psi|=0.9999991  ref 8.5s
+rqc  n=28  1-F=3.02e-13  max|da|=1.90e-09  |psi|=0.9999991  ref 17.5s
+rqc  n=29  1-F=3.16e-13  max|da|=1.36e-09  |psi|=0.9999983  ref 29.8s
+rqc  n=30  1-F=3.70e-13  max|da|=1.40e-09  |psi|=0.9999988  ref 57.0s
+vqe  n=24  1-F=1.40e-13  max|da|=5.81e-09  |psi|=0.9999999  ref 3.6s
+vqe  n=26  1-F=1.65e-13  max|da|=1.46e-09  |psi|=1.0000000  ref 5.0s
+vqe  n=28  1-F=1.61e-13  max|da|=9.24e-10  |psi|=1.0000000  ref 10.7s
+vqe  n=29  1-F=1.86e-13  max|da|=8.87e-10  |psi|=1.0000002  ref 18.9s
+vqe  n=30  1-F=1.75e-13  max|da|=7.68e-10  |psi|=1.0000002  ref 35.3s
+[2026-10-14T10:05:15+05:30] MAXWIDTH_DONE

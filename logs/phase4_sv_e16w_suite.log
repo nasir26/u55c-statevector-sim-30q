@@ -1,0 +1,9 @@
+S5 ghz_24 deviation 6.85e-08
+S5 ghz_26 deviation 6.85e-08
+S5 ghz_28 deviation 6.85e-08
+S5 ghz_30 deviation 6.85e-08
+S5 qft_24 deviation 2.38e-07
+S5 qft_26 deviation 2.38e-07
+S5 qft_28 deviation 2.38e-07
+S5 qft_30 deviation 2.38e-07
+{"platform": "fpga_sv_e16", "threshold": 1e-05, "total": 398, "passed": 398, "by_section": {"S1": [85, 85], "S2": [252, 252], "S3": [7, 7], "S4": [46, 46], "S5": [8, 8]}}

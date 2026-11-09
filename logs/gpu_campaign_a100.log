@@ -1,0 +1,12 @@
+<WS>/bench/gpu/run_remote.sh: line 20: env/bin/python: No such file or directory
+<WS>/bench/gpu/run_remote.sh: line 24: unexpected EOF while looking for matching `"'
+<WS>/bench/gpu/run_remote.sh: line 25: syntax error: unexpected end of file
+tar: -: Cannot write: Broken pipe
+tar: Child returned status 141
+tar: Error is not recoverable: exiting now
+rc=1 results=0
+rc=143 results=203
+ENV gpu-node NVIDIA A100-SXM4-80GB, 615.71.09, 81920 MiB cudaq==0.12.0 cupy-cuda12x==13.4.1 cuquantum-cu12==26.9.0 qiskit==1.2.4 qiskit-aer-gpu==0.15.1
+rc=143 results=0
+rc=143 results=0
+CAMPAIGN_DONE
