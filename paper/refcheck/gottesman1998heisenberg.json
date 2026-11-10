@@ -1,0 +1,152 @@
+{
+ "key": "gottesman1998heisenberg",
+ "query": "Gottesman, D.: The Heisenberg representation of quantum computers. arXiv:quant-ph/9807006 (1998)",
+ "matches": [
+  {
+   "DOI": "10.1007/978-94-015-7771-7_7",
+   "title": [
+    "Heisenberg Representation"
+   ],
+   "author": [
+    {
+     "given": "Harry A.",
+     "family": "Mavromatis",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Exercises in Quantum Mechanics"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1987
+     ]
+    ]
+   },
+   "page": "83-89"
+  },
+  {
+   "DOI": "10.1007/s11082-024-07842-1",
+   "title": [
+    "Retraction Note: Optical quantum modeling for Heisenberg ferromagnetic normalized phase"
+   ],
+   "author": [
+    {
+     "given": "Zeliha",
+     "family": "K\u00f6rpinar",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Talat",
+     "family": "K\u00f6rpinar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Erdal",
+     "family": "Korkmaz",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Optical and Quantum Electronics"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      11,
+      13
+     ]
+    ]
+   },
+   "volume": "56"
+  },
+  {
+   "DOI": "10.1007/s11082-023-05355-x",
+   "title": [
+    "Optical quantum normalized electroosmotic Heisenberg magnetical optimistic energy"
+   ],
+   "author": [
+    {
+     "given": "Talat",
+     "family": "K\u00f6rpinar",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Zeliha",
+     "family": "K\u00f6rpinar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Vedat",
+     "family": "As\u0131l",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Optical and Quantum Electronics"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      9,
+      28
+     ]
+    ]
+   },
+   "volume": "55"
+  }
+ ],
+ "error": null
+}
