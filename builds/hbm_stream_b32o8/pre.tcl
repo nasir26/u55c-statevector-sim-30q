@@ -1,0 +1,1 @@
+config_interface -m_axi_buffer_impl bram
