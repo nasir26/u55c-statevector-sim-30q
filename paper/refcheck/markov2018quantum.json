@@ -1,0 +1,142 @@
+{
+ "key": "markov2018quantum",
+ "query": "Markov, I.L., Shi, Y.: Simulating quantum computation by contracting tensor networks. SIAM Journal on Computing textbf 38 (3), 963--981 (2008)",
+ "matches": [
+  {
+   "DOI": "10.1137/050644756",
+   "title": [
+    "Simulating Quantum Computation by Contracting Tensor Networks"
+   ],
+   "author": [
+    {
+     "given": "Igor L.",
+     "family": "Markov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yaoyun",
+     "family": "Shi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "SIAM Journal on Computing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2008,
+      1
+     ]
+    ]
+   },
+   "volume": "38",
+   "page": "963-981"
+  },
+  {
+   "DOI": "10.1137/050644768",
+   "title": [
+    "Tensor Norms and the Classical Communication Complexity of Nonlocal Quantum Measurement"
+   ],
+   "author": [
+    {
+     "given": "Yaoyun",
+     "family": "Shi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yufan",
+     "family": "Zhu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "SIAM Journal on Computing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2008,
+      1
+     ]
+    ]
+   },
+   "volume": "38",
+   "page": "753-766"
+  },
+  {
+   "DOI": "10.1137/080739379",
+   "title": [
+    "Quantum Computation and the Evaluation of Tensor Networks"
+   ],
+   "author": [
+    {
+     "given": "Itai",
+     "family": "Arad",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zeph",
+     "family": "Landau",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "SIAM Journal on Computing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2010,
+      1
+     ]
+    ]
+   },
+   "volume": "39",
+   "page": "3089-3121"
+  }
+ ],
+ "error": null
+}

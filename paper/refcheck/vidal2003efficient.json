@@ -1,0 +1,118 @@
+{
+ "key": "vidal2003efficient",
+ "query": "Vidal, G.: Efficient classical simulation of slightly entangled quantum computations. Physical Review Letters textbf 91 (14), 147902 (2003)",
+ "matches": [
+  {
+   "DOI": "10.1103/physrevlett.91.147902",
+   "title": [
+    "Efficient Classical Simulation of Slightly Entangled Quantum Computations"
+   ],
+   "author": [
+    {
+     "given": "Guifr\u00e9",
+     "family": "Vidal",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Physical Review Letters"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2003,
+      10,
+      1
+     ]
+    ]
+   },
+   "volume": "91"
+  },
+  {
+   "DOI": "10.1103/physrevlett.91.230404",
+   "title": [
+    "Quantum Zeno Subspace and Entangled Bose-Einstein Condensates"
+   ],
+   "author": [
+    {
+     "given": "M.",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "L.",
+     "family": "You",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Physical Review Letters"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2003,
+      12,
+      3
+     ]
+    ]
+   },
+   "volume": "91"
+  },
+  {
+   "DOI": "10.1103/physrevlett.93.040502",
+   "title": [
+    "Efficient Simulation of One-Dimensional Quantum Many-Body Systems"
+   ],
+   "author": [
+    {
+     "given": "Guifr\u00e9",
+     "family": "Vidal",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Physical Review Letters"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2004,
+      7,
+      19
+     ]
+    ]
+   },
+   "volume": "93"
+  }
+ ],
+ "error": null
+}

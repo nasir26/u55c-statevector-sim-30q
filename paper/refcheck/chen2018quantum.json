@@ -1,0 +1,420 @@
+{
+ "key": "chen2018quantum",
+ "query": "Chen, Z.-Y., Zhou, Q., Xue, C., Yang, X., Guo, G.-C., Guo, G.-P.: 64-qubit quantum circuit simulation. Science Bulletin textbf 63 (15), 964--971 (2018)",
+ "matches": [
+  {
+   "DOI": "10.1016/j.scib.2018.06.007",
+   "title": [
+    "64-qubit quantum circuit simulation"
+   ],
+   "author": [
+    {
+     "given": "Zhao-Yun",
+     "family": "Chen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Qi",
+     "family": "Zhou",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Cheng",
+     "family": "Xue",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xia",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Guang-Can",
+     "family": "Guo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Guo-Ping",
+     "family": "Guo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Science Bulletin"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      8
+     ]
+    ]
+   },
+   "volume": "63",
+   "page": "964-971"
+  },
+  {
+   "DOI": "10.1016/j.scib.2018.06.018",
+   "title": [
+    "Simultaneous observation of quantum contextuality and quantum nonlocality"
+   ],
+   "author": [
+    {
+     "given": "Xiao-Min",
+     "family": "Hu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Bi-Heng",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jiang-Shan",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yu",
+     "family": "Guo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yu-Chun",
+     "family": "Wu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yun-Feng",
+     "family": "Huang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Chuan-Feng",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Guang-Can",
+     "family": "Guo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Science Bulletin"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      9
+     ]
+    ]
+   },
+   "volume": "63",
+   "page": "1092-1095"
+  },
+  {
+   "DOI": "10.1016/j.future.2026.108484",
+   "title": [
+    "HiMA: Hierarchical quantum microarchitecture for qubit-scaling and quantum process-level parallelism"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-3929-0223",
+     "authenticated-orcid": false,
+     "given": "Qi",
+     "family": "Zhou",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0007-0640-5446",
+     "authenticated-orcid": false,
+     "given": "Zi-Hao",
+     "family": "Mei",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0000-9941-5684",
+     "authenticated-orcid": false,
+     "given": "Han-Qing",
+     "family": "Shi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1085-7820",
+     "authenticated-orcid": false,
+     "given": "Liang-Liang",
+     "family": "Guo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0318-9908",
+     "authenticated-orcid": false,
+     "given": "Xiao-Yan",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0000-5347-5286",
+     "authenticated-orcid": false,
+     "given": "Yun-Jie",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8243-689X",
+     "authenticated-orcid": false,
+     "given": "Xiao-Fan",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2207-9998",
+     "authenticated-orcid": false,
+     "given": "Cheng",
+     "family": "Xue",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8274-4374",
+     "authenticated-orcid": false,
+     "given": "Wei-Cheng",
+     "family": "Kong",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0004-2412-2237",
+     "authenticated-orcid": false,
+     "given": "Jun-Chao",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8997-3030",
+     "authenticated-orcid": false,
+     "given": "Yu-Chun",
+     "family": "Wu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5181-160X",
+     "authenticated-orcid": false,
+     "given": "Zhao-Yun",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2179-9507",
+     "authenticated-orcid": false,
+     "given": "Guo-Ping",
+     "family": "Guo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Future Generation Computer Systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      9
+     ]
+    ]
+   },
+   "volume": "182",
+   "page": "108484"
+  }
+ ],
+ "error": null
+}

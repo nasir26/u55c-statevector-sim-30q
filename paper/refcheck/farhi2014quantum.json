@@ -1,0 +1,237 @@
+{
+ "key": "farhi2014quantum",
+ "query": "Farhi, E., Goldstone, J., Gutmann, S.: A quantum approximate optimization algorithm. arXiv:1411.4028 (2014)",
+ "matches": [
+  {
+   "DOI": "10.22331/q-2022-07-07-759",
+   "title": [
+    "The Quantum Approximate Optimization Algorithm and the Sherrington-Kirkpatrick Model at Infinite Size"
+   ],
+   "author": [
+    {
+     "given": "Edward",
+     "family": "Farhi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Google Inc., Venice, CA 90291, USA"
+      },
+      {
+       "name": "Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge, MA 02139, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jeffrey",
+     "family": "Goldstone",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge, MA 02139, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sam",
+     "family": "Gutmann",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Leo",
+     "family": "Zhou",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Google Inc., Venice, CA 90291, USA"
+      },
+      {
+       "name": "Department of Physics, Harvard University, Cambridge, MA 02138, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Quantum"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      7,
+      7
+     ]
+    ]
+   },
+   "volume": "6",
+   "page": "759"
+  },
+  {
+   "DOI": "10.1142/s021974990800358x",
+   "title": [
+    "HOW TO MAKE THE QUANTUM ADIABATIC ALGORITHM FAIL"
+   ],
+   "author": [
+    {
+     "given": "EDWARD",
+     "family": "FARHI",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge, Massachusetts, 02139, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "JEFFREY",
+     "family": "GOLDSTONE",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge, Massachusetts, 02139, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "SAM",
+     "family": "GUTMANN",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Mathematics, Northeastern University, Boston, Massachusetts, 02115, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "DANIEL",
+     "family": "NAGAJ",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge, Massachusetts, 02139, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal of Quantum Information"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2008,
+      6
+     ]
+    ]
+   },
+   "volume": "06",
+   "page": "503-516"
+  },
+  {
+   "DOI": "10.1016/0003-4916(89)90141-3",
+   "title": [
+    "How probability arises in quantum mechanics"
+   ],
+   "author": [
+    {
+     "given": "Edward",
+     "family": "Farhi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jeffrey",
+     "family": "Goldstone",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sam",
+     "family": "Gutmann",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Annals of Physics"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1989,
+      6
+     ]
+    ]
+   },
+   "volume": "192",
+   "page": "368-382"
+  }
+ ],
+ "error": null
+}

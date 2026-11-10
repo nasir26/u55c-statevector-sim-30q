@@ -1,0 +1,175 @@
+{
+ "key": "silva2017quantum",
+ "query": "Silva, J.A., Pereira, M.A.: An FPGA-based quantum computing emulation framework. In: Proc. International Symposium on Reconfigurable Computing (2017)",
+ "matches": [
+  {
+   "DOI": "10.1155/2016/5718124",
+   "title": [
+    "An FPGA-Based Quantum Computing Emulation Framework Based on Serial-Parallel Architecture"
+   ],
+   "author": [
+    {
+     "given": "Y. H.",
+     "family": "Lee",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "VeCAD Research Laboratory, Faculty of Electrical Engineering, Universiti Teknologi Malaysia (UTM), 81310 Skudai, Johor Bahru, Malaysia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M.",
+     "family": "Khalil-Hani",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "VeCAD Research Laboratory, Faculty of Electrical Engineering, Universiti Teknologi Malaysia (UTM), 81310 Skudai, Johor Bahru, Malaysia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M. N.",
+     "family": "Marsono",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "VeCAD Research Laboratory, Faculty of Electrical Engineering, Universiti Teknologi Malaysia (UTM), 81310 Skudai, Johor Bahru, Malaysia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal of Reconfigurable Computing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2016
+     ]
+    ]
+   },
+   "volume": "2016",
+   "page": "1-18"
+  },
+  {
+   "DOI": "10.1109/reconfig.2009.35",
+   "title": [
+    "Speeding up Fault Injection for Asynchronous Logic by FPGA-Based Emulation"
+   ],
+   "author": [
+    {
+     "given": "Marcus",
+     "family": "Jeitler",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jakob",
+     "family": "Lech",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2009 International Conference on Reconfigurable Computing and FPGAs"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2009,
+      12
+     ]
+    ]
+   },
+   "page": "65-70"
+  },
+  {
+   "DOI": "10.1109/reconfig.2017.8279775",
+   "title": [
+    "An FPGA-based prototyping framework for Networks-on-Chip"
+   ],
+   "author": [
+    {
+     "given": "Tobias",
+     "family": "Drewes",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jan Moritz",
+     "family": "Joseph",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Thilo",
+     "family": "Pionteck",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2017 International Conference on ReConFigurable Computing and FPGAs (ReConFig)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      12
+     ]
+    ]
+   },
+   "page": "1-7"
+  }
+ ],
+ "error": null
+}

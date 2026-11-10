@@ -1,0 +1,153 @@
+{
+ "key": "pednault2017breaking",
+ "query": "Pednault, E., Gunnels, J.A., Nannicini, G., Horesh, L., Wisnieff, R.: Breaking the 49-qubit barrier in the simulation of quantum circuits. arXiv:1710.05867 (2017)",
+ "matches": [
+  {
+   "DOI": "10.26421/qic17.13-14-2",
+   "title": [
+    "Efficient implementation of quantum circuits with limited qubit interactions"
+   ],
+   "author": [
+    {
+     "given": "Stephen",
+     "family": "Brierley",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Quantum Information and Computation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      11
+     ]
+    ]
+   },
+   "volume": "17",
+   "page": "1096-1104"
+  },
+  {
+   "DOI": "10.1017/9781316779460.007",
+   "title": [
+    "Qubit\u2013Photon Interaction"
+   ],
+   "container-title": [
+    "Quantum Information and Quantum Optics with Superconducting Circuits"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      7,
+      31
+     ]
+    ]
+   },
+   "page": "156-197"
+  },
+  {
+   "DOI": "10.1145/3544563",
+   "title": [
+    "Optimal Qubit Assignment and Routing via Integer Programming"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-4936-1259",
+     "authenticated-orcid": false,
+     "given": "Giacomo",
+     "family": "Nannicini",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "IBM Quantum, IBM T. J.\u00a0Watson Research Center, Yorktown Heights, New York, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1318-1149",
+     "authenticated-orcid": false,
+     "given": "Lev S.",
+     "family": "Bishop",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IBM Quantum, IBM T. J.\u00a0Watson Research Center, Yorktown Heights, New York, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9272-377X",
+     "authenticated-orcid": false,
+     "given": "Oktay",
+     "family": "G\u00fcnl\u00fck",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Operations Research and Information Engineering, Cornell University, Ithaca, New York, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1234-6386",
+     "authenticated-orcid": false,
+     "given": "Petar",
+     "family": "Jurcevic",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IBM Quantum, IBM T. J.\u00a0Watson Research Center, Yorktown Heights, New York, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "ACM Transactions on Quantum Computing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      10,
+      21
+     ]
+    ]
+   },
+   "volume": "4",
+   "page": "1-31"
+  }
+ ],
+ "error": null
+}

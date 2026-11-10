@@ -1,0 +1,143 @@
+{
+ "key": "xrt2023",
+ "query": "AMD/Xilinx: Xilinx Runtime (XRT) Architecture (2023). url https://xilinx.github.io/XRT/",
+ "matches": [
+  {
+   "DOI": "10.1109/ipdpsw55747.2022.00109",
+   "title": [
+    "CGRA4HPC 2022 Invited Speaker: Mapping ML to the AMD/Xilinx AIE-ML architecture"
+   ],
+   "author": [
+    {
+     "given": "Elliott",
+     "family": "Delaye",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "AMD"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2022 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5
+     ]
+    ]
+   },
+   "page": "628-628"
+  },
+  {
+   "DOI": "10.1002/9780470231630.ch11",
+   "title": [
+    "Xilinx Spartan\u20103 Specific Memory"
+   ],
+   "container-title": [
+    "FPGA Prototyping by VHDL Examples"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2007,
+      7,
+      16
+     ]
+    ]
+   },
+   "page": "243-256"
+  },
+  {
+   "DOI": "10.21203/rs.3.rs-4472610/v1",
+   "title": [
+    "Sneaky Glitch: A Clock Glitch Generator to attack the AMD-Xilinx PLL"
+   ],
+   "author": [
+    {
+     "given": "Lukas",
+     "family": "Leuenberger",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "IMES - Institute for Microelectronics, Embedded Systems and Sensors, OST - Eastern Switzerland University of Applied Sciences"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Roman",
+     "family": "Willi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IMES - Institute for Microelectronics, Embedded Systems and Sensors, OST - Eastern Switzerland University of Applied Sciences"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Dorian",
+     "family": "Amiet",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IMES - Institute for Microelectronics, Embedded Systems and Sensors, OST - Eastern Switzerland University of Applied Sciences"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Paul",
+     "family": "Zbinden",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IMES - Institute for Microelectronics, Embedded Systems and Sensors, OST - Eastern Switzerland University of Applied Sciences"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      9,
+      26
+     ]
+    ]
+   }
+  }
+ ],
+ "error": null
+}

@@ -1,0 +1,85 @@
+{
+ "key": "grover1996fast",
+ "query": "Grover, L.K.: A fast quantum mechanical algorithm for database search. In: Proc. ACM STOC, pp. 212--219 (1996)",
+ "matches": [
+  {
+   "DOI": "10.1145/237814.237866",
+   "title": [
+    "A fast quantum mechanical algorithm for database search"
+   ],
+   "author": [
+    {
+     "given": "Lov K.",
+     "family": "Grover",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings of the twenty-eighth annual ACM symposium on Theory of computing  - STOC '96"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1996
+     ]
+    ]
+   },
+   "page": "212-219"
+  },
+  {
+   "DOI": "10.1145/276698.276712",
+   "title": [
+    "A framework for fast quantum mechanical algorithms"
+   ],
+   "author": [
+    {
+     "given": "Lov K.",
+     "family": "Grover",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings of the thirtieth annual ACM symposium on Theory of computing  - STOC '98"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1998
+     ]
+    ]
+   },
+   "page": "53-62"
+  },
+  {
+   "DOI": "10.1007/springerreference_57836",
+   "title": [
+    "Quantum Search, 1996; Grover"
+   ],
+   "container-title": [
+    "SpringerReference"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   }
+  }
+ ],
+ "error": null
+}

@@ -1,0 +1,534 @@
+===============================================================================
+Version:    v++ v2023.2 (64-bit)
+Build:      SW Build 4026344 on 2023-10-11-15:42:10
+Copyright:  Copyright 1986-2023 Xilinx, Inc. All Rights Reserved.
+Created:    Tue Oct  6 09:59:57 2026
+===============================================================================
+
+-------------------------------------------------------------------------------
+Design Name:             hbm_stream
+Target Device:           xilinx:u55c:gen3x16_xdma_3:202210.1
+Target Clock:            300.000000MHz
+Total number of kernels: 1
+-------------------------------------------------------------------------------
+
+Kernel Summary
+Kernel Name  Type  Target              OpenCL Library  Compute Units
+-----------  ----  ------------------  --------------  -------------
+hbm_stream   c     fpga0:OCL_REGION_0  hbm_stream      1
+
+
+-------------------------------------------------------------------------------
+OpenCL Binary:     hbm_stream
+Kernels mapped to: clc_region
+
+Timing Information (MHz)
+Compute Unit  Kernel Name  Module Name                                     Target Frequency  Estimated Frequency
+------------  -----------  ----------------------------------------------  ----------------  -------------------
+hbm_stream_1  hbm_stream   entry_proc                                      300.300293        821.692688
+hbm_stream_1  hbm_stream   pc_proc_Pipeline_WR_REP_WR_BLK_WR_WORD          300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_Pipeline_RD_REP_RD_BLK_RD_WORD          300.300293        255.493103
+hbm_stream_1  hbm_stream   cp_rd_Pipeline_VITIS_LOOP_20_1_VITIS_LOOP_21_2  300.300293        411.015198
+hbm_stream_1  hbm_stream   cp_rd                                           300.300293        411.015198
+hbm_stream_1  hbm_stream   cp_wr_Pipeline_VITIS_LOOP_28_1_VITIS_LOOP_29_2  300.300293        411.015198
+hbm_stream_1  hbm_stream   cp_wr                                           300.300293        411.015198
+hbm_stream_1  hbm_stream   cp_df                                           300.300293        411.015198
+hbm_stream_1  hbm_stream   pc_proc_Pipeline_CP_REP_CP_BLK_CP_WORD          300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc                                         300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry9395_proc                            300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_1_Pipeline_WR_REP_WR_BLK_WR_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_1_Pipeline_RD_REP_RD_BLK_RD_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_1_Pipeline_CP_REP_CP_BLK_CP_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_1                                       300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry9397_proc                            300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_2_Pipeline_WR_REP_WR_BLK_WR_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_2_Pipeline_RD_REP_RD_BLK_RD_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_2_Pipeline_CP_REP_CP_BLK_CP_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_2                                       300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry9399_proc                            300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_3_Pipeline_WR_REP_WR_BLK_WR_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_3_Pipeline_RD_REP_RD_BLK_RD_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_3_Pipeline_CP_REP_CP_BLK_CP_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_3                                       300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93101_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_4_Pipeline_WR_REP_WR_BLK_WR_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_4_Pipeline_RD_REP_RD_BLK_RD_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_4_Pipeline_CP_REP_CP_BLK_CP_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_4                                       300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93103_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_5_Pipeline_WR_REP_WR_BLK_WR_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_5_Pipeline_RD_REP_RD_BLK_RD_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_5_Pipeline_CP_REP_CP_BLK_CP_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_5                                       300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93105_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_6_Pipeline_WR_REP_WR_BLK_WR_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_6_Pipeline_RD_REP_RD_BLK_RD_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_6_Pipeline_CP_REP_CP_BLK_CP_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_6                                       300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93107_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_7_Pipeline_WR_REP_WR_BLK_WR_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_7_Pipeline_RD_REP_RD_BLK_RD_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_7_Pipeline_CP_REP_CP_BLK_CP_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_7                                       300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93109_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_8_Pipeline_WR_REP_WR_BLK_WR_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_8_Pipeline_RD_REP_RD_BLK_RD_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_8_Pipeline_CP_REP_CP_BLK_CP_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_8                                       300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93111_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_9_Pipeline_WR_REP_WR_BLK_WR_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_9_Pipeline_RD_REP_RD_BLK_RD_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_9_Pipeline_CP_REP_CP_BLK_CP_WORD        300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_9                                       300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93113_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_10_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_10_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_10_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_10                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93115_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_11_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_11_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_11_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_11                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93117_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_12_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_12_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_12_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_12                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93119_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_13_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_13_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_13_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_13                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93121_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_14_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_14_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_14_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_14                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93123_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_15_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_15_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_15_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_15                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93125_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_16_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_16_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_16_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_16                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93127_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_17_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_17_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_17_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_17                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93129_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_18_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_18_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_18_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_18                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93131_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_19_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_19_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_19_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_19                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93133_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_20_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_20_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_20_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_20                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93135_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_21_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_21_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_21_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_21                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93137_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_22_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_22_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_22_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_22                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93139_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_23_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_23_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_23_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_23                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93141_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_24_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_24_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_24_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_24                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93143_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_25_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_25_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_25_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_25                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93145_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_26_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_26_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_26_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_26                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93147_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_27_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_27_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_27_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_27                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93149_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_28_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_28_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_28_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_28                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93151_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_29_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_29_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_29_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_29                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93153_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_30_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_30_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_30_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_30                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   Block_entry93155_proc                           300.300293        inf
+hbm_stream_1  hbm_stream   pc_proc_31_Pipeline_WR_REP_WR_BLK_WR_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_31_Pipeline_RD_REP_RD_BLK_RD_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_31_Pipeline_CP_REP_CP_BLK_CP_WORD       300.300293        255.493103
+hbm_stream_1  hbm_stream   pc_proc_31                                      300.300293        255.493103
+hbm_stream_1  hbm_stream   hbm_stream                                      300.300293        255.493103
+
+Latency Information
+Compute Unit  Kernel Name  Module Name                                     Start Interval  Best (cycles)  Avg (cycles)  Worst (cycles)  Best (absolute)  Avg (absolute)  Worst (absolute)
+------------  -----------  ----------------------------------------------  --------------  -------------  ------------  --------------  ---------------  --------------  ----------------
+hbm_stream_1  hbm_stream   entry_proc                                      0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_Pipeline_WR_REP_WR_BLK_WR_WORD          undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_Pipeline_RD_REP_RD_BLK_RD_WORD          undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   cp_rd_Pipeline_VITIS_LOOP_20_1_VITIS_LOOP_21_2  undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   cp_rd                                           undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   cp_wr_Pipeline_VITIS_LOOP_28_1_VITIS_LOOP_29_2  undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   cp_wr                                           undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   cp_df                                           undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_Pipeline_CP_REP_CP_BLK_CP_WORD          undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc                                         undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry9395_proc                            0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_1_Pipeline_WR_REP_WR_BLK_WR_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_1_Pipeline_RD_REP_RD_BLK_RD_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_1_Pipeline_CP_REP_CP_BLK_CP_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_1                                       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry9397_proc                            0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_2_Pipeline_WR_REP_WR_BLK_WR_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_2_Pipeline_RD_REP_RD_BLK_RD_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_2_Pipeline_CP_REP_CP_BLK_CP_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_2                                       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry9399_proc                            0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_3_Pipeline_WR_REP_WR_BLK_WR_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_3_Pipeline_RD_REP_RD_BLK_RD_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_3_Pipeline_CP_REP_CP_BLK_CP_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_3                                       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93101_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_4_Pipeline_WR_REP_WR_BLK_WR_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_4_Pipeline_RD_REP_RD_BLK_RD_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_4_Pipeline_CP_REP_CP_BLK_CP_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_4                                       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93103_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_5_Pipeline_WR_REP_WR_BLK_WR_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_5_Pipeline_RD_REP_RD_BLK_RD_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_5_Pipeline_CP_REP_CP_BLK_CP_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_5                                       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93105_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_6_Pipeline_WR_REP_WR_BLK_WR_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_6_Pipeline_RD_REP_RD_BLK_RD_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_6_Pipeline_CP_REP_CP_BLK_CP_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_6                                       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93107_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_7_Pipeline_WR_REP_WR_BLK_WR_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_7_Pipeline_RD_REP_RD_BLK_RD_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_7_Pipeline_CP_REP_CP_BLK_CP_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_7                                       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93109_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_8_Pipeline_WR_REP_WR_BLK_WR_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_8_Pipeline_RD_REP_RD_BLK_RD_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_8_Pipeline_CP_REP_CP_BLK_CP_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_8                                       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93111_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_9_Pipeline_WR_REP_WR_BLK_WR_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_9_Pipeline_RD_REP_RD_BLK_RD_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_9_Pipeline_CP_REP_CP_BLK_CP_WORD        undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_9                                       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93113_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_10_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_10_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_10_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_10                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93115_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_11_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_11_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_11_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_11                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93117_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_12_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_12_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_12_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_12                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93119_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_13_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_13_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_13_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_13                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93121_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_14_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_14_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_14_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_14                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93123_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_15_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_15_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_15_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_15                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93125_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_16_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_16_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_16_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_16                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93127_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_17_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_17_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_17_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_17                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93129_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_18_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_18_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_18_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_18                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93131_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_19_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_19_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_19_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_19                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93133_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_20_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_20_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_20_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_20                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93135_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_21_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_21_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_21_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_21                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93137_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_22_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_22_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_22_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_22                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93139_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_23_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_23_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_23_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_23                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93141_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_24_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_24_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_24_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_24                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93143_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_25_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_25_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_25_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_25                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93145_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_26_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_26_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_26_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_26                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93147_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_27_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_27_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_27_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_27                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93149_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_28_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_28_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_28_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_28                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93151_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_29_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_29_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_29_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_29                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93153_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_30_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_30_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_30_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_30                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   Block_entry93155_proc                           0               0              0             0               0 ns             0 ns            0 ns
+hbm_stream_1  hbm_stream   pc_proc_31_Pipeline_WR_REP_WR_BLK_WR_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_31_Pipeline_RD_REP_RD_BLK_RD_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_31_Pipeline_CP_REP_CP_BLK_CP_WORD       undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   pc_proc_31                                      undef           undef          undef         undef           undef            undef           undef
+hbm_stream_1  hbm_stream   hbm_stream                                      undef           undef          undef         undef           undef            undef           undef
+
+Area Information
+Compute Unit  Kernel Name  Module Name                                     FF      LUT     DSP  BRAM  URAM
+------------  -----------  ----------------------------------------------  ------  ------  ---  ----  ----
+hbm_stream_1  hbm_stream   entry_proc                                      2       1685    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_Pipeline_WR_REP_WR_BLK_WR_WORD          1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_Pipeline_RD_REP_RD_BLK_RD_WORD          1390    1859    0    0     0
+hbm_stream_1  hbm_stream   cp_rd_Pipeline_VITIS_LOOP_20_1_VITIS_LOOP_21_2  918     381     0    0     0
+hbm_stream_1  hbm_stream   cp_rd                                           1273    594     0    0     0
+hbm_stream_1  hbm_stream   cp_wr_Pipeline_VITIS_LOOP_28_1_VITIS_LOOP_29_2  912     425     0    0     0
+hbm_stream_1  hbm_stream   cp_wr                                           1331    715     0    0     0
+hbm_stream_1  hbm_stream   cp_df                                           3919    2007    0    15    0
+hbm_stream_1  hbm_stream   pc_proc_Pipeline_CP_REP_CP_BLK_CP_WORD          1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc                                         12524   12300   0    15    0
+hbm_stream_1  hbm_stream   Block_entry9395_proc                            3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_1_Pipeline_WR_REP_WR_BLK_WR_WORD        1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_1_Pipeline_RD_REP_RD_BLK_RD_WORD        1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_1_Pipeline_CP_REP_CP_BLK_CP_WORD        1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_1                                       12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry9397_proc                            3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_2_Pipeline_WR_REP_WR_BLK_WR_WORD        1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_2_Pipeline_RD_REP_RD_BLK_RD_WORD        1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_2_Pipeline_CP_REP_CP_BLK_CP_WORD        1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_2                                       12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry9399_proc                            3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_3_Pipeline_WR_REP_WR_BLK_WR_WORD        1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_3_Pipeline_RD_REP_RD_BLK_RD_WORD        1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_3_Pipeline_CP_REP_CP_BLK_CP_WORD        1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_3                                       12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93101_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_4_Pipeline_WR_REP_WR_BLK_WR_WORD        1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_4_Pipeline_RD_REP_RD_BLK_RD_WORD        1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_4_Pipeline_CP_REP_CP_BLK_CP_WORD        1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_4                                       12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93103_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_5_Pipeline_WR_REP_WR_BLK_WR_WORD        1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_5_Pipeline_RD_REP_RD_BLK_RD_WORD        1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_5_Pipeline_CP_REP_CP_BLK_CP_WORD        1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_5                                       12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93105_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_6_Pipeline_WR_REP_WR_BLK_WR_WORD        1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_6_Pipeline_RD_REP_RD_BLK_RD_WORD        1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_6_Pipeline_CP_REP_CP_BLK_CP_WORD        1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_6                                       12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93107_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_7_Pipeline_WR_REP_WR_BLK_WR_WORD        1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_7_Pipeline_RD_REP_RD_BLK_RD_WORD        1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_7_Pipeline_CP_REP_CP_BLK_CP_WORD        1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_7                                       12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93109_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_8_Pipeline_WR_REP_WR_BLK_WR_WORD        1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_8_Pipeline_RD_REP_RD_BLK_RD_WORD        1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_8_Pipeline_CP_REP_CP_BLK_CP_WORD        1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_8                                       12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93111_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_9_Pipeline_WR_REP_WR_BLK_WR_WORD        1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_9_Pipeline_RD_REP_RD_BLK_RD_WORD        1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_9_Pipeline_CP_REP_CP_BLK_CP_WORD        1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_9                                       12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93113_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_10_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_10_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_10_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_10                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93115_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_11_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_11_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_11_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_11                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93117_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_12_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_12_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_12_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_12                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93119_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_13_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_13_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_13_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_13                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93121_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_14_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_14_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_14_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_14                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93123_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_15_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_15_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_15_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_15                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93125_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_16_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_16_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_16_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_16                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93127_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_17_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_17_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_17_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_17                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93129_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_18_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_18_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_18_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_18                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93131_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_19_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_19_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_19_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_19                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93133_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_20_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_20_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_20_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_20                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93135_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_21_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_21_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_21_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_21                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93137_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_22_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_22_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_22_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_22                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93139_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_23_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_23_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_23_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_23                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93141_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_24_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_24_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_24_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_24                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93143_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_25_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_25_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_25_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_25                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93145_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_26_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_26_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_26_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_26                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93147_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_27_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_27_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_27_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_27                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93149_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_28_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_28_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_28_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_28                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93151_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_29_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_29_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_29_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_29                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93153_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_30_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_30_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_30_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_30                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   Block_entry93155_proc                           3       20      0    0     0
+hbm_stream_1  hbm_stream   pc_proc_31_Pipeline_WR_REP_WR_BLK_WR_WORD       1961    2074    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_31_Pipeline_RD_REP_RD_BLK_RD_WORD       1390    1859    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_31_Pipeline_CP_REP_CP_BLK_CP_WORD       1671    1545    0    0     0
+hbm_stream_1  hbm_stream   pc_proc_31                                      12747   12354   0    15    0
+hbm_stream_1  hbm_stream   hbm_stream                                      533093  499749  0    480   512
+-------------------------------------------------------------------------------

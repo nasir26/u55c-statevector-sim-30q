@@ -1,0 +1,325 @@
+{
+ "key": "villalonga2019flexible",
+ "query": "Villalonga, B., Boixo, S., Nelson, B., Henze, C., Rieffel, E., Biswas, R., Mandr `a, S.: A flexible high-performance simulator for verifying and benchmarking quantum circuits implemented on real hardware. npj Quantum Information textbf 5 (1), 86 (2019)",
+ "matches": [
+  {
+   "DOI": "10.1038/s41534-019-0196-1",
+   "title": [
+    "A flexible high-performance simulator for verifying and benchmarking quantum circuits implemented on real hardware"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-3299-7226",
+     "authenticated-orcid": false,
+     "given": "Benjamin",
+     "family": "Villalonga",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1090-7584",
+     "authenticated-orcid": false,
+     "given": "Sergio",
+     "family": "Boixo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bron",
+     "family": "Nelson",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Christopher",
+     "family": "Henze",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Eleanor",
+     "family": "Rieffel",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rupak",
+     "family": "Biswas",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3908-2694",
+     "authenticated-orcid": false,
+     "given": "Salvatore",
+     "family": "Mandr\u00e0",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "npj Quantum Information"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      10,
+      10
+     ]
+    ]
+   },
+   "volume": "5"
+  },
+  {
+   "DOI": "10.1038/s41534-023-00703-x",
+   "title": [
+    "Boundaries of quantum supremacy via random circuit sampling"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-4153-8646",
+     "authenticated-orcid": false,
+     "given": "Alexander",
+     "family": "Zlokapa",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Benjamin",
+     "family": "Villalonga",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1090-7584",
+     "authenticated-orcid": false,
+     "given": "Sergio",
+     "family": "Boixo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1671-1515",
+     "authenticated-orcid": false,
+     "given": "Daniel A.",
+     "family": "Lidar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "npj Quantum Information"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      4,
+      11
+     ]
+    ]
+   },
+   "volume": "9"
+  },
+  {
+   "DOI": "10.1088/2058-9565/ab7eeb",
+   "title": [
+    "Establishing the quantum supremacy frontier with a 281 Pflop/s simulation"
+   ],
+   "author": [
+    {
+     "given": "Benjamin",
+     "family": "Villalonga",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dmitry",
+     "family": "Lyakh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sergio",
+     "family": "Boixo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hartmut",
+     "family": "Neven",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Travis S",
+     "family": "Humble",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rupak",
+     "family": "Biswas",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Eleanor G",
+     "family": "Rieffel",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Alan",
+     "family": "Ho",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3908-2694",
+     "authenticated-orcid": false,
+     "given": "Salvatore",
+     "family": "Mandr\u00e0",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Quantum Science and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      4,
+      27
+     ]
+    ]
+   },
+   "volume": "5",
+   "page": "034003"
+  }
+ ],
+ "error": null
+}

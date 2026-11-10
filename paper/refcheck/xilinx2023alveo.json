@@ -1,0 +1,91 @@
+{
+ "key": "xilinx2023alveo",
+ "query": "AMD/Xilinx: Alveo U55C Data Center Accelerator Card data sheet, DS978 (2023)",
+ "matches": [
+  {
+   "DOI": "10.21203/rs.3.rs-10128153/v1",
+   "title": [
+    "Multi-FPGA Quantum Circuit Simulation: ADistributed Statevector Architecture on FourXilinx Alveo U55C Accelerators"
+   ],
+   "author": [
+    {
+     "given": "Nasir Ali Nasir",
+     "family": "Ali",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Centre for Development of Advanced Computing"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      8,
+      25
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.12968/s0047-9624(22)61404-4",
+   "title": [
+    "Xilinx Unveils Adaptable Accelerator Card"
+   ],
+   "author": [
+    {
+     "given": "Neil",
+     "family": "Tyler",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "New Electronics"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      8,
+      13
+     ]
+    ]
+   },
+   "volume": "52",
+   "page": "9-9"
+  },
+  {
+   "DOI": "10.1016/b978-1-85617-719-1.00015-4",
+   "title": [
+    "MAX232 Data Sheet"
+   ],
+   "container-title": [
+    "SD Card Projects Using the PIC Microcontroller"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2010
+     ]
+    ]
+   },
+   "page": "533"
+  }
+ ],
+ "error": null
+}

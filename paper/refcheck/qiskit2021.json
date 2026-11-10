@@ -1,0 +1,376 @@
+{
+ "key": "qiskit2021",
+ "query": "Javadi-Abhari, A., Treinish, M., Krsulich, K., Wood, C.J., Lishman, J., Gacon, J., emph et al. : Quantum computing with Qiskit. arXiv:2405.08810 (2024)",
+ "matches": [
+  {
+   "DOI": "10.1088/2058-9565/aba404",
+   "title": [
+    "Qiskit pulse: programming quantum computers through the cloud with pulses"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-3452-0082",
+     "authenticated-orcid": false,
+     "given": "Thomas",
+     "family": "Alexander",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Naoki",
+     "family": "Kanazawa",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Daniel J",
+     "family": "Egger",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Lauren",
+     "family": "Capelluto",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Christopher J",
+     "family": "Wood",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ali",
+     "family": "Javadi-Abhari",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "David",
+     "family": "C McKay",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Quantum Science and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      8,
+      25
+     ]
+    ]
+   },
+   "volume": "5",
+   "page": "044006"
+  },
+  {
+   "DOI": "10.1038/s43588-025-00792-y",
+   "title": [
+    "Benchmarking the performance of quantum computing software for quantum circuit creation, manipulation and compilation"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-0045-6118",
+     "authenticated-orcid": false,
+     "given": "Paul D.",
+     "family": "Nation",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Abdullah Ash",
+     "family": "Saki",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sebastian",
+     "family": "Brandhofer",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3530-6283",
+     "authenticated-orcid": false,
+     "given": "Luciano",
+     "family": "Bello",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shelly",
+     "family": "Garion",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9713-2875",
+     "authenticated-orcid": false,
+     "given": "Matthew",
+     "family": "Treinish",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ali",
+     "family": "Javadi-Abhari",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Nature Computational Science"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      4,
+      18
+     ]
+    ]
+   },
+   "volume": "5",
+   "page": "427-435"
+  },
+  {
+   "DOI": "10.1109/isca59077.2024.00031",
+   "title": [
+    "Suppressing Correlated Noise in Quantum Computers via Context-Aware Compiling"
+   ],
+   "author": [
+    {
+     "given": "Alireza",
+     "family": "Seif",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "IBM Quantum,Yorktown Heights,USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Haoran",
+     "family": "Liao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of California,Berkeley,USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vinay",
+     "family": "Tripathi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Southern California,Los Angeles,USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kevin",
+     "family": "Krsulich",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IBM Quantum,Yorktown Heights,USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Moein",
+     "family": "Malekakhlagh",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IBM Quantum,Yorktown Heights,USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mirko",
+     "family": "Amico",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IBM Quantum,Yorktown Heights,USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Petar",
+     "family": "Jurcevic",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IBM Quantum,Yorktown Heights,USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ali",
+     "family": "Javadi-Abhari",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IBM Quantum,Yorktown Heights,USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2024 ACM/IEEE 51st Annual International Symposium on Computer Architecture (ISCA)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      6,
+      29
+     ]
+    ]
+   },
+   "page": "310-324"
+  }
+ ],
+ "error": null
+}

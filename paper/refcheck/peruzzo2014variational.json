@@ -1,0 +1,327 @@
+{
+ "key": "peruzzo2014variational",
+ "query": "Peruzzo, A., McClean, J., Shadbolt, P., Yung, M.-H., Zhou, X.-Q., Love, P.J., Aspuru-Guzik, A., O'Brien, J.L.: A variational eigenvalue solver on a photonic quantum processor. Nature Communications textbf 5 , 4213 (2014)",
+ "matches": [
+  {
+   "DOI": "10.1038/ncomms5213",
+   "title": [
+    "A variational eigenvalue solver on a photonic quantum processor"
+   ],
+   "author": [
+    {
+     "given": "Alberto",
+     "family": "Peruzzo",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jarrod",
+     "family": "McClean",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Peter",
+     "family": "Shadbolt",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Man-Hong",
+     "family": "Yung",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiao-Qi",
+     "family": "Zhou",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Peter J.",
+     "family": "Love",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Al\u00e1n",
+     "family": "Aspuru-Guzik",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jeremy L.",
+     "family": "O\u2019Brien",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Nature Communications"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      7,
+      23
+     ]
+    ]
+   },
+   "volume": "5"
+  },
+  {
+   "DOI": "10.1021/jz501649m",
+   "title": [
+    "Exploiting\nLocality in Quantum Computation for Quantum\nChemistry"
+   ],
+   "author": [
+    {
+     "given": "Jarrod R.",
+     "family": "McClean",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Harvard University , , , ,",
+       "place": [
+        "Cambridge, Massachusetts, United States, 02138"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ryan",
+     "family": "Babbush",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Harvard University , , , ,",
+       "place": [
+        "Cambridge, Massachusetts, United States, 02138"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Peter J.",
+     "family": "Love",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Haverford College , , , ,",
+       "place": [
+        "Haverford, Pennsylvania, United States, 19041"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ala\u0301n",
+     "family": "Aspuru-Guzik",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Harvard University , , , ,",
+       "place": [
+        "Cambridge, Massachusetts, United States, 02138"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The Journal of Physical Chemistry Letters"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      11,
+      25
+     ]
+    ]
+   },
+   "volume": "5",
+   "page": "4368-4380"
+  },
+  {
+   "DOI": "10.1038/srep03589",
+   "title": [
+    "From transistor to trapped-ion computers for quantum chemistry"
+   ],
+   "author": [
+    {
+     "given": "M.-H.",
+     "family": "Yung",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "J.",
+     "family": "Casanova",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "A.",
+     "family": "Mezzacapo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "J.",
+     "family": "McClean",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "L.",
+     "family": "Lamata",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "A.",
+     "family": "Aspuru-Guzik",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "E.",
+     "family": "Solano",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Scientific Reports"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      1,
+      7
+     ]
+    ]
+   },
+   "volume": "4"
+  }
+ ],
+ "error": null
+}

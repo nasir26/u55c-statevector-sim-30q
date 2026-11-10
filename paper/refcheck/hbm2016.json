@@ -1,0 +1,192 @@
+{
+ "key": "hbm2016",
+ "query": "JEDEC Solid State Technology Association: High Bandwidth Memory (HBM) DRAM standard, JESD235A (2016)",
+ "matches": [
+  {
+   "DOI": "10.1109/imw.2017.7939084",
+   "title": [
+    "HBM (High Bandwidth Memory) DRAM Technology and Architecture"
+   ],
+   "author": [
+    {
+     "given": "Hongshin",
+     "family": "Jun",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jinhee",
+     "family": "Cho",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kangseol",
+     "family": "Lee",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ho-Young",
+     "family": "Son",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kwiwook",
+     "family": "Kim",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hanho",
+     "family": "Jin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Keith",
+     "family": "Kim",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2017 IEEE International Memory Workshop (IMW)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      5
+     ]
+    ]
+   },
+   "page": "1-4"
+  },
+  {
+   "DOI": "10.1109/isscc42614.2022.11005811",
+   "title": [
+    "Tutorial: HBM DRAM and 3D Stacked Memory"
+   ],
+   "author": [
+    {
+     "given": "Dong UK",
+     "family": "Lee",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "SK hynix, Icheon-si, Korea"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2022 IEEE International Solid-State Circuits Conference (ISSCC)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      2,
+      20
+     ]
+    ]
+   },
+   "page": "1-113"
+  },
+  {
+   "DOI": "10.1109/isscc.2016.7418032",
+   "title": [
+    "Session 18 overview: High-bandwidth DRAM"
+   ],
+   "author": [
+    {
+     "given": "Chulwoo",
+     "family": "Kim",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Martin",
+     "family": "Brox",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2016 IEEE International Solid-State Circuits Conference (ISSCC)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      1
+     ]
+    ]
+   },
+   "page": "312-313"
+  }
+ ],
+ "error": null
+}

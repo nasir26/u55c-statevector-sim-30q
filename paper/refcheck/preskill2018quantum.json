@@ -1,0 +1,114 @@
+{
+ "key": "preskill2018quantum",
+ "query": "Preskill, J.: Quantum computing in the NISQ era and beyond. Quantum textbf 2 , 79 (2018)",
+ "matches": [
+  {
+   "DOI": "10.22331/q-2018-08-06-79",
+   "title": [
+    "Quantum Computing in the NISQ era and beyond"
+   ],
+   "author": [
+    {
+     "given": "John",
+     "family": "Preskill",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Institute for Quantum Information and Matter and Walter Burke Institute for Theoretical Physics, California Institute of Technology, Pasadena CA 91125, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Quantum"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      8,
+      6
+     ]
+    ]
+   },
+   "volume": "2",
+   "page": "79"
+  },
+  {
+   "DOI": "10.1145/3723153",
+   "title": [
+    "Beyond NISQ: The Megaquop Machine"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-2421-4762",
+     "authenticated-orcid": false,
+     "given": "John",
+     "family": "Preskill",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Institute for Quantum Information and Matter, California Institute of Technology, Pasadena, United States"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "ACM Transactions on Quantum Computing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      4,
+      29
+     ]
+    ]
+   },
+   "volume": "6",
+   "page": "1-7"
+  },
+  {
+   "DOI": "10.20944/preprints202509.2393.v1",
+   "title": [
+    "Quantum Fisher Information Beyond Theory: A Paradigm Shift Towards Measurable Quantum Advantage in NISQ-Era Sensing"
+   ],
+   "author": [
+    {
+     "given": "Volkan",
+     "family": "Erol",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      9,
+      29
+     ]
+    ]
+   }
+  }
+ ],
+ "error": null
+}

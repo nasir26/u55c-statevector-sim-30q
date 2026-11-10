@@ -1,0 +1,388 @@
+{
+ "key": "boixo2018characterizing",
+ "query": "Boixo, S., Isakov, S.V., Smelyanskiy, V.N., Babbush, R., Ding, N., Jiang, Z., Bremner, M.J., Martinis, J.M., Neven, H.: Characterizing quantum supremacy in near-term devices. Nature Physics textbf 14 (6), 595--600 (2018)",
+ "matches": [
+  {
+   "DOI": "10.1038/s41567-018-0124-x",
+   "title": [
+    "Characterizing quantum supremacy in near-term devices"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1090-7584",
+     "authenticated-orcid": false,
+     "given": "Sergio",
+     "family": "Boixo",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sergei V.",
+     "family": "Isakov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vadim N.",
+     "family": "Smelyanskiy",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ryan",
+     "family": "Babbush",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nan",
+     "family": "Ding",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zhang",
+     "family": "Jiang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7240-4686",
+     "authenticated-orcid": false,
+     "given": "Michael J.",
+     "family": "Bremner",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "John M.",
+     "family": "Martinis",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hartmut",
+     "family": "Neven",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Nature Physics"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      4,
+      23
+     ]
+    ]
+   },
+   "volume": "14",
+   "page": "595-600"
+  },
+  {
+   "DOI": "10.1103/physrevx.6.031015",
+   "title": [
+    "What is the Computational Value of Finite-Range Tunneling?"
+   ],
+   "author": [
+    {
+     "given": "Vasil S.",
+     "family": "Denchev",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sergio",
+     "family": "Boixo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sergei V.",
+     "family": "Isakov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nan",
+     "family": "Ding",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ryan",
+     "family": "Babbush",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vadim",
+     "family": "Smelyanskiy",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "John",
+     "family": "Martinis",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hartmut",
+     "family": "Neven",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Physical Review X"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      8,
+      1
+     ]
+    ]
+   },
+   "volume": "6"
+  },
+  {
+   "DOI": "10.1038/543171a",
+   "title": [
+    "Commercialize quantum technologies in five years"
+   ],
+   "author": [
+    {
+     "given": "Masoud",
+     "family": "Mohseni",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Peter",
+     "family": "Read",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hartmut",
+     "family": "Neven",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sergio",
+     "family": "Boixo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vasil",
+     "family": "Denchev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ryan",
+     "family": "Babbush",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Austin",
+     "family": "Fowler",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vadim",
+     "family": "Smelyanskiy",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "John",
+     "family": "Martinis",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Nature"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      3,
+      9
+     ]
+    ]
+   },
+   "volume": "543",
+   "page": "171-174"
+  }
+ ],
+ "error": null
+}

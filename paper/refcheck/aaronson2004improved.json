@@ -1,0 +1,142 @@
+{
+ "key": "aaronson2004improved",
+ "query": "Aaronson, S., Gottesman, D.: Improved simulation of stabilizer circuits. Physical Review A textbf 70 (5), 052328 (2004)",
+ "matches": [
+  {
+   "DOI": "10.1103/physreva.70.052328",
+   "title": [
+    "Improved simulation of stabilizer circuits"
+   ],
+   "author": [
+    {
+     "given": "Scott",
+     "family": "Aaronson",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Daniel",
+     "family": "Gottesman",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Physical Review A"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2004,
+      11,
+      30
+     ]
+    ]
+   },
+   "volume": "70"
+  },
+  {
+   "DOI": "10.1103/physreva.99.052307",
+   "title": [
+    "Approximate stabilizer rank and improved weak simulation of Clifford-dominated circuits for qudits"
+   ],
+   "author": [
+    {
+     "given": "Yifei",
+     "family": "Huang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Peter",
+     "family": "Love",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Physical Review A"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      5,
+      6
+     ]
+    ]
+   },
+   "volume": "99"
+  },
+  {
+   "DOI": "10.1103/physreva.73.022334",
+   "title": [
+    "Fast simulation of stabilizer circuits using a graph-state representation"
+   ],
+   "author": [
+    {
+     "given": "Simon",
+     "family": "Anders",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hans J.",
+     "family": "Briegel",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Physical Review A"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2006,
+      2,
+      21
+     ]
+    ]
+   },
+   "volume": "73"
+  }
+ ],
+ "error": null
+}

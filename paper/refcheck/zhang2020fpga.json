@@ -1,0 +1,158 @@
+{
+ "key": "zhang2020fpga",
+ "query": "Zhang, X., Li, Y., Wang, J.: GPU-FPGA heterogeneous quantum circuit simulation. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems textbf 39 (11), 3625--3636 (2020)",
+ "matches": [
+  {
+   "DOI": "10.1109/tcad.2020.3013047",
+   "title": [
+    "Enabling Latency-Aware Data Initialization for Integrated CPU/GPU Heterogeneous Platform"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-2789-8071",
+     "authenticated-orcid": false,
+     "given": "Zhendong",
+     "family": "Wang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3767-9462",
+     "authenticated-orcid": false,
+     "given": "Zihang",
+     "family": "Jiang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Zhen",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Xulong",
+     "family": "Tang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Cong",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2309-572X",
+     "authenticated-orcid": false,
+     "given": "Shouyi",
+     "family": "Yin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6942-4395",
+     "authenticated-orcid": false,
+     "given": "Yang",
+     "family": "Hu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      11
+     ]
+    ]
+   },
+   "volume": "39",
+   "page": "3433-3444"
+  },
+  {
+   "DOI": "10.1109/tcad.2020.3028020",
+   "title": [
+    "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems publication information"
+   ],
+   "container-title": [
+    "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      11
+     ]
+    ]
+   },
+   "volume": "39",
+   "page": "C3-C3"
+  },
+  {
+   "DOI": "10.1109/tcad.2020.3028018",
+   "title": [
+    "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems society information"
+   ],
+   "container-title": [
+    "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      11
+     ]
+    ]
+   },
+   "volume": "39",
+   "page": "C2-C2"
+  }
+ ],
+ "error": null
+}

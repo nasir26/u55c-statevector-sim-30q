@@ -1,0 +1,175 @@
+{
+ "key": "vitis2023hls",
+ "query": "AMD/Xilinx: Vitis High-Level Synthesis User Guide, UG1399 (v2023.1) (2023)",
+ "matches": [
+  {
+   "DOI": "10.1109/tcad.2025.3526053",
+   "title": [
+    "Reverse-Engineering Optimization Techniques of High-Level Synthesis: Practical Insights Into Accelerating Applications With AMD-Xilinx Vitis"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-1243-9283",
+     "authenticated-orcid": false,
+     "given": "Jorge",
+     "family": "Koronis",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Departamento de Arquitectura de Computadores y Autom&#x00E1;tica, Facultad de Inform&#x00E1;tica, Universidad Complutense de Madrid, Madrid, Spain"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5064-2587",
+     "authenticated-orcid": false,
+     "given": "Oscar",
+     "family": "Garnica",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Departamento de Arquitectura de Computadores y Autom&#x00E1;tica, Facultad de Inform&#x00E1;tica, Universidad Complutense de Madrid, Madrid, Spain"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3046-6368",
+     "authenticated-orcid": false,
+     "given": "J.",
+     "family": "Ignacio Hidalgo",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Departamento de Arquitectura de Computadores y Autom&#x00E1;tica, Facultad de Inform&#x00E1;tica, Universidad Complutense de Madrid, Madrid, Spain"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4192-1300",
+     "authenticated-orcid": false,
+     "given": "Juan",
+     "family": "Lanchares D\u00e1vila",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Departamento de Arquitectura de Computadores y Autom&#x00E1;tica, Facultad de Inform&#x00E1;tica, Universidad Complutense de Madrid, Madrid, Spain"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      7
+     ]
+    ]
+   },
+   "volume": "44",
+   "page": "2558-2570"
+  },
+  {
+   "DOI": "10.1007/978-1-4020-8588-8_10",
+   "title": [
+    "User Guided High Level Synthesis"
+   ],
+   "author": [
+    {
+     "given": "Ivan",
+     "family": "Aug\u00e9",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Fr\u00e9d\u00e9ric",
+     "family": "P\u00e9trot",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "High-Level Synthesis"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "page": "171-196"
+  },
+  {
+   "DOI": "10.1007/978-3-031-18023-1_2",
+   "title": [
+    "Setting up\u00a0and\u00a0Using the\u00a0Vitis_HLS, Vivado, and\u00a0Vitis IDE Tools"
+   ],
+   "author": [
+    {
+     "given": "Bernard",
+     "family": "Goossens",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Undergraduate Topics in Computer Science",
+    "Guide to Computer Processor Architecture"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "page": "13-85"
+  }
+ ],
+ "error": null
+}

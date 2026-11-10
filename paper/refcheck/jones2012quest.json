@@ -1,0 +1,207 @@
+{
+ "key": "jones2012quest",
+ "query": "Jones, T., Brown, A., Bush, I., Benjamin, S.C.: QuEST and high performance simulation of quantum computers. Scientific Reports textbf 9 (1), 10736 (2019)",
+ "matches": [
+  {
+   "DOI": "10.1038/s41598-019-47174-9",
+   "title": [
+    "QuEST and High Performance Simulation of Quantum Computers"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-9360-5417",
+     "authenticated-orcid": false,
+     "given": "Tyson",
+     "family": "Jones",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Anna",
+     "family": "Brown",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ian",
+     "family": "Bush",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7766-5348",
+     "authenticated-orcid": false,
+     "given": "Simon C.",
+     "family": "Benjamin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Scientific Reports"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      7,
+      24
+     ]
+    ]
+   },
+   "volume": "9"
+  },
+  {
+   "DOI": "10.1038/s41598-025-87015-6",
+   "title": [
+    "Digital quantum simulation of cosmological particle creation with IBM quantum computers"
+   ],
+   "author": [
+    {
+     "given": "Marco D.",
+     "family": "Maceda",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Carlos",
+     "family": "Sab\u00edn",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Scientific Reports"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      1,
+      28
+     ]
+    ]
+   },
+   "volume": "15"
+  },
+  {
+   "DOI": "10.22331/q-2025-02-25-1642",
+   "title": [
+    "The Virtual Quantum Device (VQD): A tool for detailed emulation of quantum computers"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0558-4685",
+     "authenticated-orcid": false,
+     "given": "Cica",
+     "family": "Gustiani",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Materials, University of Oxford, Parks Road, Oxford OX1 3PH, United Kingdom"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9360-5417",
+     "authenticated-orcid": false,
+     "given": "Tyson",
+     "family": "Jones",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Materials, University of Oxford, Parks Road, Oxford OX1 3PH, United Kingdom"
+      },
+      {
+       "name": "Quantum Motion, 9 Sterling Way, London N7 9HJ, United Kingdom"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7766-5348",
+     "authenticated-orcid": false,
+     "given": "Simon C.",
+     "family": "Benjamin",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Materials, University of Oxford, Parks Road, Oxford OX1 3PH, United Kingdom"
+      },
+      {
+       "name": "Quantum Motion, 9 Sterling Way, London N7 9HJ, United Kingdom"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Quantum"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      2,
+      25
+     ]
+    ]
+   },
+   "volume": "9",
+   "page": "1642"
+  }
+ ],
+ "error": null
+}

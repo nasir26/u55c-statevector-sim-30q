@@ -1,0 +1,163 @@
+{
+ "key": "li2020distributed",
+ "query": "Li, R., Chen, S., Liu, M.: Distributed FPGA-based quantum circuit simulator. In: Proc. International Conference on Field-Programmable Technology (FPT), pp. 45--52 (2020)",
+ "matches": [
+  {
+   "DOI": "10.1109/fpt.2013.6718386",
+   "title": [
+    "Quantum FPGA architecture design"
+   ],
+   "author": [
+    {
+     "given": "Jialin",
+     "family": "Chen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Lingli",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bin",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2013 International Conference on Field-Programmable Technology (FPT)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2013,
+      12
+     ]
+    ]
+   },
+   "page": "354-357"
+  },
+  {
+   "DOI": "10.1109/fpt.2018.00071",
+   "title": [
+    "Distributed-Memory Based FPGA Debug: Design Timing Impact"
+   ],
+   "author": [
+    {
+     "given": "Robert",
+     "family": "Hale",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Brad",
+     "family": "Hutchings",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2018 International Conference on Field-Programmable Technology (FPT)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      12
+     ]
+    ]
+   },
+   "page": "350-353"
+  },
+  {
+   "DOI": "10.1109/fpt.2018.00019",
+   "title": [
+    "Software-Specified FPGA Accelerators for Elementary Functions"
+   ],
+   "author": [
+    {
+     "given": "Jing",
+     "family": "Chen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Xue",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jason",
+     "family": "Anderson",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2018 International Conference on Field-Programmable Technology (FPT)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      12
+     ]
+    ]
+   },
+   "page": "54-61"
+  }
+ ],
+ "error": null
+}

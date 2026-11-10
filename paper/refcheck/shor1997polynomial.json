@@ -1,0 +1,105 @@
+{
+ "key": "shor1997polynomial",
+ "query": "Shor, P.W.: Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer. SIAM Review textbf 41 (2), 303--332 (1999)",
+ "matches": [
+  {
+   "DOI": "10.1137/s0036144598347011",
+   "title": [
+    "Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer"
+   ],
+   "author": [
+    {
+     "given": "Peter W.",
+     "family": "Shor",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "SIAM Review"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1999,
+      1
+     ]
+    ]
+   },
+   "volume": "41",
+   "page": "303-332"
+  },
+  {
+   "DOI": "10.1137/s0097539795293172",
+   "title": [
+    "Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer"
+   ],
+   "author": [
+    {
+     "given": "Peter W.",
+     "family": "Shor",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "SIAM Journal on Computing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1997,
+      10
+     ]
+    ]
+   },
+   "volume": "26",
+   "page": "1484-1509"
+  },
+  {
+   "DOI": "10.1007/3-540-58691-1_68",
+   "title": [
+    "Polynomial time algorithms for discrete logarithms and factoring on a quantum computer"
+   ],
+   "author": [
+    {
+     "given": "Peter W.",
+     "family": "Shor",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Lecture Notes in Computer Science",
+    "Algorithmic Number Theory"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1994
+     ]
+    ]
+   },
+   "page": "289-289"
+  }
+ ],
+ "error": null
+}

@@ -1,0 +1,437 @@
+{
+ "key": "cross2018ibm",
+ "query": "Cross, A.W., Bishop, L.S., Smolin, J.A., Gambetta, J.M.: Open quantum assembly language. arXiv:1707.03429 (2017)",
+ "matches": [
+  {
+   "DOI": "10.1038/npjqi.2016.12",
+   "title": [
+    "Scalable randomised benchmarking of non-Clifford gates"
+   ],
+   "author": [
+    {
+     "given": "Andrew W",
+     "family": "Cross",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Easwar",
+     "family": "Magesan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Lev S",
+     "family": "Bishop",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "John A",
+     "family": "Smolin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jay M",
+     "family": "Gambetta",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "npj Quantum Information"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      4,
+      26
+     ]
+    ]
+   },
+   "volume": "2"
+  },
+  {
+   "DOI": "10.1145/3505636",
+   "title": [
+    "OpenQASM\u00a03: A Broader and Deeper Quantum Assembly Language"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-9786-8196",
+     "authenticated-orcid": false,
+     "given": "Andrew",
+     "family": "Cross",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "IBM Quantum, IBM T. J. Watson Research Center, Yorktown Heights, NY"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8022-2695",
+     "authenticated-orcid": false,
+     "given": "Ali",
+     "family": "Javadi-Abhari",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IBM Quantum, IBM T. J. Watson Research Center, Yorktown Heights, NY"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3452-0082",
+     "authenticated-orcid": false,
+     "given": "Thomas",
+     "family": "Alexander",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IBM Quantum, IBM T. J. Watson Research Center, Yorktown Heights, NY"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9549-5146",
+     "authenticated-orcid": false,
+     "given": "Niel",
+     "family": "De Beaudrap",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Dept. Informatics, University of Sussex, UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1318-1149",
+     "authenticated-orcid": false,
+     "given": "Lev S.",
+     "family": "Bishop",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IBM Quantum, IBM T. J. Watson Research Center, Yorktown Heights, NY"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5222-1003",
+     "authenticated-orcid": false,
+     "given": "Steven",
+     "family": "Heidel",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "AWS Center for Quantum Computing, Pasadena, CA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9923-3354",
+     "authenticated-orcid": false,
+     "given": "Colm A.",
+     "family": "Ryan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "AWS Center for Quantum Computing, Pasadena, CA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9383-8624",
+     "authenticated-orcid": false,
+     "given": "Prasahnt",
+     "family": "Sivarajah",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "AWS Center for Quantum Computing, Pasadena, CA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "John",
+     "family": "Smolin",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IBM Quantum, IBM T. J. Watson Research Center, Yorktown Heights, NY"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jay M.",
+     "family": "Gambetta",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IBM Quantum, IBM T. J. Watson Research Center, Yorktown Heights, NY"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6880-4828",
+     "authenticated-orcid": false,
+     "given": "Blake R.",
+     "family": "Johnson",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IBM Quantum, IBM T. J. Watson Research Center, Yorktown Heights, NY"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "ACM Transactions on Quantum Computing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      9,
+      6
+     ]
+    ]
+   },
+   "volume": "3",
+   "page": "1-50"
+  },
+  {
+   "DOI": "10.1038/s41534-017-0017-3",
+   "title": [
+    "Demonstration of quantum advantage in machine learning"
+   ],
+   "author": [
+    {
+     "given": "Diego",
+     "family": "Rist\u00e8",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6641-8712",
+     "authenticated-orcid": false,
+     "given": "Marcus P.",
+     "family": "da Silva",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Colm A.",
+     "family": "Ryan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Andrew W.",
+     "family": "Cross",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Antonio D.",
+     "family": "C\u00f3rcoles",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "John A.",
+     "family": "Smolin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jay M.",
+     "family": "Gambetta",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jerry M.",
+     "family": "Chow",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6880-4828",
+     "authenticated-orcid": false,
+     "given": "Blake R.",
+     "family": "Johnson",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "npj Quantum Information"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      4,
+      13
+     ]
+    ]
+   },
+   "volume": "3"
+  }
+ ],
+ "error": null
+}

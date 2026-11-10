@@ -1,0 +1,470 @@
+{
+ "key": "suzuki2021qulacs",
+ "query": "Suzuki, Y., emph et al. : Qulacs: a fast and versatile quantum circuit simulator for research purpose. Quantum textbf 5 , 559 (2021)",
+ "matches": [
+  {
+   "DOI": "10.22331/q-2021-10-06-559",
+   "title": [
+    "Qulacs: a fast and versatile quantum circuit simulator for research purpose"
+   ],
+   "author": [
+    {
+     "given": "Yasunari",
+     "family": "Suzuki",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "NTT Computer and Data Science Laboratories, NTT Corporation, Musashino 180-8585, Japan"
+      },
+      {
+       "name": "JST PRESTO, Kawaguchi, Saitama 332-0012, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yoshiaki",
+     "family": "Kawase",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Graduate School of Engineering Science, Osaka University, 1-3 Machikaneyama, Toyonaka, Osaka 560-8531, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yuya",
+     "family": "Masumura",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Graduate School of Information Science and Technology, Osaka University, 1-1 Yamadaoka, Suita, Osaka 565-0871, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yuria",
+     "family": "Hiraga",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Graduate School of Information and Science, Nara Institute of Science and Technology, Takayama, Ikoma, Nara 630-0192, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Masahiro",
+     "family": "Nakadai",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Graduate School of Science, Kyoto University, Yoshida-Ushinomiya, Sakyo, Kyoto 606-8302, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jiabao",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "QunaSys Inc., Aqua Hakusan Building 9F, 1-13-7 Hakusan, Bunkyo, Tokyo 113-0001, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ken M.",
+     "family": "Nakanishi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "QunaSys Inc., Aqua Hakusan Building 9F, 1-13-7 Hakusan, Bunkyo, Tokyo 113-0001, Japan"
+      },
+      {
+       "name": "Graduate School of Science, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kosuke",
+     "family": "Mitarai",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Graduate School of Engineering Science, Osaka University, 1-3 Machikaneyama, Toyonaka, Osaka 560-8531, Japan"
+      },
+      {
+       "name": "QunaSys Inc., Aqua Hakusan Building 9F, 1-13-7 Hakusan, Bunkyo, Tokyo 113-0001, Japan"
+      },
+      {
+       "name": "Center for Quantum Information and Quantum Biology, Institute for Open and Transdisciplinary Research Initiatives, Osaka University, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ryosuke",
+     "family": "Imai",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "QunaSys Inc., Aqua Hakusan Building 9F, 1-13-7 Hakusan, Bunkyo, Tokyo 113-0001, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shiro",
+     "family": "Tamiya",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "QunaSys Inc., Aqua Hakusan Building 9F, 1-13-7 Hakusan, Bunkyo, Tokyo 113-0001, Japan"
+      },
+      {
+       "name": "Graduate School of Engineering, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Takahiro",
+     "family": "Yamamoto",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "QunaSys Inc., Aqua Hakusan Building 9F, 1-13-7 Hakusan, Bunkyo, Tokyo 113-0001, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tennin",
+     "family": "Yan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "QunaSys Inc., Aqua Hakusan Building 9F, 1-13-7 Hakusan, Bunkyo, Tokyo 113-0001, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Toru",
+     "family": "Kawakubo",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "QunaSys Inc., Aqua Hakusan Building 9F, 1-13-7 Hakusan, Bunkyo, Tokyo 113-0001, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yuya O.",
+     "family": "Nakagawa",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "QunaSys Inc., Aqua Hakusan Building 9F, 1-13-7 Hakusan, Bunkyo, Tokyo 113-0001, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yohei",
+     "family": "Ibe",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "QunaSys Inc., Aqua Hakusan Building 9F, 1-13-7 Hakusan, Bunkyo, Tokyo 113-0001, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Youyuan",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "QunaSys Inc., Aqua Hakusan Building 9F, 1-13-7 Hakusan, Bunkyo, Tokyo 113-0001, Japan"
+      },
+      {
+       "name": "Graduate School of Science, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hirotsugu",
+     "family": "Yamashita",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Individual researcher"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hikaru",
+     "family": "Yoshimura",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Individual researcher"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Akihiro",
+     "family": "Hayashi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer Science, Georgia Institute of Technology, Atlanta, GA, 30332, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Keisuke",
+     "family": "Fujii",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "JST PRESTO, Kawaguchi, Saitama 332-0012, Japan"
+      },
+      {
+       "name": "Graduate School of Engineering Science, Osaka University, 1-3 Machikaneyama, Toyonaka, Osaka 560-8531, Japan"
+      },
+      {
+       "name": "Center for Quantum Information and Quantum Biology, Institute for Open and Transdisciplinary Research Initiatives, Osaka University, Japan"
+      },
+      {
+       "name": "Center for Emergent Matter Science, RIKEN, Wako Saitama 351-0198, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Quantum"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      10,
+      6
+     ]
+    ]
+   },
+   "volume": "5",
+   "page": "559"
+  },
+  {
+   "DOI": "10.22331/q-2021-07-06-497",
+   "title": [
+    "Stim: a fast stabilizer circuit simulator"
+   ],
+   "author": [
+    {
+     "given": "Craig",
+     "family": "Gidney",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Google Inc., Santa Barbara, California 93117, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Quantum"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      7,
+      6
+     ]
+    ]
+   },
+   "volume": "5",
+   "page": "497"
+  },
+  {
+   "DOI": "10.1109/isvlsi51109.2021.00086",
+   "title": [
+    "Fast quantum circuit simulation using hardware accelerated general purpose libraries"
+   ],
+   "author": [
+    {
+     "given": "Oumarou",
+     "family": "Oumarou",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Alexandru",
+     "family": "Paler",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Robert",
+     "family": "Basmadjian",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2021 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      7
+     ]
+    ]
+   },
+   "page": "437-440"
+  }
+ ],
+ "error": null
+}

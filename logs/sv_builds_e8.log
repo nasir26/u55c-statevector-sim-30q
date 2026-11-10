@@ -1,0 +1,80 @@
+ghz_20           rep-1 P= 8 kernel    0.0032s exch   0.0075s e2e    0.0266s passes=9 remaps=3 F=None
+ghz_20           rep 0 P= 8 kernel    0.0031s exch   0.0049s e2e    0.0277s passes=9 remaps=3 F=None
+ghz_20           rep 1 P= 8 kernel    0.0029s exch   0.0034s e2e    0.0215s passes=9 remaps=3 F=None
+ghz_20           rep 2 P= 8 kernel    0.0030s exch   0.0036s e2e    0.0208s passes=9 remaps=3 F=None
+ghz_22           rep-1 P= 8 kernel    0.0112s exch   0.0081s e2e    0.0364s passes=11 remaps=3 F=None
+ghz_22           rep 0 P= 8 kernel    0.0112s exch   0.0069s e2e    0.0346s passes=11 remaps=3 F=None
+ghz_22           rep 1 P= 8 kernel    0.0112s exch   0.0068s e2e    0.0350s passes=11 remaps=3 F=None
+ghz_22           rep 2 P= 8 kernel    0.0111s exch   0.0069s e2e    0.0348s passes=11 remaps=3 F=None
+ghz_24           rep-1 P= 8 kernel    0.0481s exch   0.0146s e2e    0.1035s passes=13 remaps=3 F=None
+ghz_24           rep 0 P= 8 kernel    0.0481s exch   0.0147s e2e    0.1029s passes=13 remaps=3 F=None
+ghz_24           rep 1 P= 8 kernel    0.0481s exch   0.0146s e2e    0.1034s passes=13 remaps=3 F=None
+ghz_24           rep 2 P= 8 kernel    0.0481s exch   0.0146s e2e    0.1030s passes=13 remaps=3 F=None
+ghz_26           rep-1 P= 8 kernel    0.2137s exch   0.0580s e2e    0.4264s passes=15 remaps=3 F=None
+ghz_26           rep 0 P= 8 kernel    0.2138s exch   0.0587s e2e    0.4321s passes=15 remaps=3 F=None
+ghz_26           rep 1 P= 8 kernel    0.2138s exch   0.0573s e2e    0.4309s passes=15 remaps=3 F=None
+ghz_26           rep 2 P= 8 kernel    0.2139s exch   0.0580s e2e    0.4353s passes=15 remaps=3 F=None
+ghz_28           rep-1 P= 8 kernel    0.9469s exch   0.2289s e2e    1.6906s passes=17 remaps=3 F=None
+ghz_28           rep 0 P= 8 kernel    0.9469s exch   0.2299s e2e    1.7597s passes=17 remaps=3 F=None
+ghz_28           rep 1 P= 8 kernel    0.9469s exch   0.2308s e2e    1.6598s passes=17 remaps=3 F=None
+ghz_28           rep 2 P= 8 kernel    0.9466s exch   0.2295s e2e    1.7247s passes=17 remaps=3 F=None
+qft_20           rep-1 P= 8 kernel    0.0214s exch   0.0138s e2e    0.0995s passes=55 remaps=15 F=None
+qft_20           rep 0 P= 8 kernel    0.0213s exch   0.0143s e2e    0.0983s passes=55 remaps=15 F=None
+qft_20           rep 1 P= 8 kernel    0.0216s exch   0.0150s e2e    0.0952s passes=55 remaps=15 F=None
+qft_20           rep 2 P= 8 kernel    0.0212s exch   0.0150s e2e    0.0935s passes=55 remaps=15 F=None
+qft_22           rep-1 P= 8 kernel    0.0957s exch   0.0374s e2e    0.2288s passes=75 remaps=15 F=None
+qft_22           rep 0 P= 8 kernel    0.0949s exch   0.0360s e2e    0.2322s passes=75 remaps=15 F=None
+qft_22           rep 1 P= 8 kernel    0.0952s exch   0.0338s e2e    0.2291s passes=75 remaps=15 F=None
+qft_22           rep 2 P= 8 kernel    0.0951s exch   0.0340s e2e    0.2349s passes=75 remaps=15 F=None
+qft_24           rep-1 P= 8 kernel    0.4609s exch   0.0718s e2e    0.7035s passes=101 remaps=15 F=None
+qft_24           rep 0 P= 8 kernel    0.4601s exch   0.0674s e2e    0.6746s passes=101 remaps=15 F=None
+qft_24           rep 1 P= 8 kernel    0.4600s exch   0.0682s e2e    0.6807s passes=101 remaps=15 F=None
+qft_24           rep 2 P= 8 kernel    0.4601s exch   0.0688s e2e    0.6882s passes=101 remaps=15 F=None
+qft_26           rep-1 P= 8 kernel    2.2462s exch   0.2656s e2e    2.7880s passes=131 remaps=15 F=None
+qft_26           rep 0 P= 8 kernel    2.2490s exch   0.2650s e2e    2.8007s passes=131 remaps=15 F=None
+qft_26           rep 1 P= 8 kernel    2.2467s exch   0.2690s e2e    2.7722s passes=131 remaps=15 F=None
+qft_26           rep 2 P= 8 kernel    2.2473s exch   0.2647s e2e    2.7715s passes=131 remaps=15 F=None
+qft_28           rep-1 P= 8 kernel   10.8463s exch   1.0707s e2e   12.5204s passes=165 remaps=15 F=None
+qft_28           rep 0 P= 8 kernel   10.8514s exch   1.0704s e2e   12.5511s passes=165 remaps=15 F=None
+qft_28           rep 1 P= 8 kernel   10.8495s exch   1.0786s e2e   12.5332s passes=165 remaps=15 F=None
+qft_28           rep 2 P= 8 kernel   10.8509s exch   1.0723s e2e   12.5423s passes=165 remaps=15 F=None
+rqc_20_d10       rep-1 P= 8 kernel    0.0222s exch   0.0141s e2e    0.0921s passes=50 remaps=15 F=None
+rqc_20_d10       rep 0 P= 8 kernel    0.0214s exch   0.0086s e2e    0.0783s passes=50 remaps=15 F=None
+rqc_20_d10       rep 1 P= 8 kernel    0.0212s exch   0.0085s e2e    0.0737s passes=50 remaps=15 F=None
+rqc_20_d10       rep 2 P= 8 kernel    0.0216s exch   0.0118s e2e    0.0953s passes=50 remaps=15 F=None
+rqc_22_d10       rep-1 P= 8 kernel    0.0819s exch   0.0330s e2e    0.2169s passes=58 remaps=14 F=None
+rqc_22_d10       rep 0 P= 8 kernel    0.0826s exch   0.0333s e2e    0.2228s passes=58 remaps=14 F=None
+rqc_22_d10       rep 1 P= 8 kernel    0.0818s exch   0.0261s e2e    0.2027s passes=58 remaps=14 F=None
+rqc_22_d10       rep 2 P= 8 kernel    0.0823s exch   0.0283s e2e    0.2149s passes=58 remaps=14 F=None
+rqc_24_d10       rep-1 P= 8 kernel    0.3484s exch   0.0711s e2e    0.5809s passes=68 remaps=14 F=None
+rqc_24_d10       rep 0 P= 8 kernel    0.3498s exch   0.0650s e2e    0.5786s passes=68 remaps=14 F=None
+rqc_24_d10       rep 1 P= 8 kernel    0.3471s exch   0.0644s e2e    0.5685s passes=68 remaps=14 F=None
+rqc_24_d10       rep 2 P= 8 kernel    0.3479s exch   0.0642s e2e    0.5749s passes=68 remaps=14 F=None
+rqc_26_d10       rep-1 P= 8 kernel    1.4993s exch   0.2438s e2e    2.0312s passes=78 remaps=14 F=None
+rqc_26_d10       rep 0 P= 8 kernel    1.4940s exch   0.2427s e2e    2.0234s passes=78 remaps=14 F=None
+rqc_26_d10       rep 1 P= 8 kernel    1.4978s exch   0.2435s e2e    2.0274s passes=78 remaps=14 F=None
+rqc_26_d10       rep 2 P= 8 kernel    1.4944s exch   0.2427s e2e    2.0231s passes=78 remaps=14 F=None
+rqc_28_d10       rep-1 P= 8 kernel    6.4470s exch   0.9759s e2e    8.0533s passes=88 remaps=14 F=None
+rqc_28_d10       rep 0 P= 8 kernel    6.4476s exch   0.9756s e2e    8.0800s passes=88 remaps=14 F=None
+rqc_28_d10       rep 1 P= 8 kernel    6.4453s exch   0.9722s e2e    8.0233s passes=88 remaps=14 F=None
+rqc_28_d10       rep 2 P= 8 kernel    6.4468s exch   0.9736s e2e    8.0244s passes=88 remaps=14 F=None
+vqe_20_L2        rep-1 P= 8 kernel    0.0091s exch   0.0091s e2e    0.0627s passes=24 remaps=6 F=None
+vqe_20_L2        rep 0 P= 8 kernel    0.0092s exch   0.0082s e2e    0.0599s passes=24 remaps=6 F=None
+vqe_20_L2        rep 1 P= 8 kernel    0.0092s exch   0.0087s e2e    0.0614s passes=24 remaps=6 F=None
+vqe_20_L2        rep 2 P= 8 kernel    0.0091s exch   0.0089s e2e    0.0621s passes=24 remaps=6 F=None
+vqe_22_L2        rep-1 P= 8 kernel    0.0352s exch   0.0178s e2e    0.1481s passes=29 remaps=6 F=None
+vqe_22_L2        rep 0 P= 8 kernel    0.0350s exch   0.0151s e2e    0.1408s passes=29 remaps=6 F=None
+vqe_22_L2        rep 1 P= 8 kernel    0.0353s exch   0.0170s e2e    0.1405s passes=29 remaps=6 F=None
+vqe_22_L2        rep 2 P= 8 kernel    0.0356s exch   0.0167s e2e    0.1378s passes=29 remaps=6 F=None
+vqe_24_L2        rep-1 P= 8 kernel    0.1514s exch   0.0278s e2e    0.3101s passes=34 remaps=6 F=None
+vqe_24_L2        rep 0 P= 8 kernel    0.1498s exch   0.0278s e2e    0.3087s passes=34 remaps=6 F=None
+vqe_24_L2        rep 1 P= 8 kernel    0.1495s exch   0.0282s e2e    0.3076s passes=34 remaps=6 F=None
+vqe_24_L2        rep 2 P= 8 kernel    0.1493s exch   0.0281s e2e    0.3101s passes=34 remaps=6 F=None
+vqe_26_L2        rep-1 P= 8 kernel    0.6489s exch   0.1027s e2e    1.0337s passes=39 remaps=6 F=None
+vqe_26_L2        rep 0 P= 8 kernel    0.6491s exch   0.1016s e2e    1.0300s passes=39 remaps=6 F=None
+vqe_26_L2        rep 1 P= 8 kernel    0.6490s exch   0.1034s e2e    1.0351s passes=39 remaps=6 F=None
+vqe_26_L2        rep 2 P= 8 kernel    0.6500s exch   0.1025s e2e    1.0325s passes=39 remaps=6 F=None
+vqe_28_L2        rep-1 P= 8 kernel    2.8250s exch   0.4086s e2e    3.8895s passes=44 remaps=6 F=None
+vqe_28_L2        rep 0 P= 8 kernel    2.8248s exch   0.3906s e2e    3.8352s passes=44 remaps=6 F=None
+vqe_28_L2        rep 1 P= 8 kernel    2.8262s exch   0.4073s e2e    3.8758s passes=44 remaps=6 F=None
+vqe_28_L2        rep 2 P= 8 kernel    2.8258s exch   0.4080s e2e    3.8505s passes=44 remaps=6 F=None

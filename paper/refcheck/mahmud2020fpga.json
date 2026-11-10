@@ -1,0 +1,179 @@
+{
+ "key": "mahmud2020fpga",
+ "query": "Mahmud, N., El-Araby, E., Caliga, D.: Scaling reconfigurable emulation of quantum algorithms at high precision and high throughput. Quantum Engineering textbf 2 (2), e38 (2020)",
+ "matches": [
+  {
+   "DOI": "10.1002/que2.19",
+   "title": [
+    "Scaling reconfigurable emulation of quantum algorithms at high precision and high throughput"
+   ],
+   "author": [
+    {
+     "given": "Naveed",
+     "family": "Mahmud",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Electrical Engineering and Computer ScienceUniversity of Kansas Lawrence Kansas"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4575-1049",
+     "authenticated-orcid": false,
+     "given": "Esam",
+     "family": "El\u2010Araby",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Electrical Engineering and Computer ScienceUniversity of Kansas Lawrence Kansas"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "David",
+     "family": "Caliga",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "DirectStream, LLC Colorado Springs Colorado"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Quantum Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      6
+     ]
+    ]
+   },
+   "volume": "1"
+  },
+  {
+   "DOI": "10.1109/socc.2018.8618545",
+   "title": [
+    "A Scalable High-Precision and High-Throughput Architecture for Emulation of Quantum Algorithms"
+   ],
+   "author": [
+    {
+     "given": "Naveed",
+     "family": "Mahmud",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Esam",
+     "family": "El-Araby",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2018 31st IEEE International System-on-Chip Conference (SOCC)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      9
+     ]
+    ]
+   },
+   "page": "206-212"
+  },
+  {
+   "DOI": "10.1155/2019/1949121",
+   "title": [
+    "Dimension Reduction Using Quantum Wavelet Transform on a High-Performance Reconfigurable Computer"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5570-0547",
+     "authenticated-orcid": true,
+     "given": "Naveed",
+     "family": "Mahmud",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Electrical Engineering and Computer Science, University of Kansas, Lawrence, KS 66045, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4575-1049",
+     "authenticated-orcid": true,
+     "given": "Esam",
+     "family": "El-Araby",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Electrical Engineering and Computer Science, University of Kansas, Lawrence, KS 66045, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal of Reconfigurable Computing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      11,
+      11
+     ]
+    ]
+   },
+   "volume": "2019",
+   "page": "1-14"
+  }
+ ],
+ "error": null
+}

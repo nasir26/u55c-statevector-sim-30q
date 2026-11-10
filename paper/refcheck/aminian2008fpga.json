@@ -1,0 +1,184 @@
+{
+ "key": "aminian2008fpga",
+ "query": "Aminian, M., Saeedi, M., Zamani, M.S., Sedighi, M.: FPGA-based circuit model emulation of quantum algorithms. In: Proc. IEEE Computer Society Annual Symposium on VLSI (2008)",
+ "matches": [
+  {
+   "DOI": "10.1109/isvlsi.2008.43",
+   "title": [
+    "FPGA-Based Circuit Model Emulation of Quantum Algorithms"
+   ],
+   "author": [
+    {
+     "given": "Mahdi",
+     "family": "Aminian",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mehdi",
+     "family": "Saeedi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Morteza Saheb",
+     "family": "Zamani",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mehdi",
+     "family": "Sedighi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2008 IEEE Computer Society Annual Symposium on VLSI"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2008
+     ]
+    ]
+   },
+   "page": "399-404"
+  },
+  {
+   "DOI": "10.1109/isvlsi.2007.72",
+   "title": [
+    "On the Behavior of Substitution-based Reversible Circuit Synthesis Algorithms: Investigation and Improvement"
+   ],
+   "author": [
+    {
+     "given": "Mehdi",
+     "family": "Saeedi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Morteza Saheb",
+     "family": "Zamani",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mehdi",
+     "family": "Sedighi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "IEEE Computer Society Annual Symposium on VLSI (ISVLSI '07)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2007
+     ]
+    ]
+   },
+   "page": "428-436"
+  },
+  {
+   "DOI": "10.1109/isvlsi.2008.69",
+   "title": [
+    "Simultaneous Gate Sizing and Skew Scheduling to Statistical Yield Improvement"
+   ],
+   "author": [
+    {
+     "given": "Minoo",
+     "family": "Mirsaeedi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Morteza Saheb",
+     "family": "Zamani",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mehdi",
+     "family": "Saeedi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2008 IEEE Computer Society Annual Symposium on VLSI"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2008
+     ]
+    ]
+   },
+   "page": "467-470"
+  }
+ ],
+ "error": null
+}

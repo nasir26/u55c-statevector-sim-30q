@@ -1,0 +1,122 @@
+{
+ "key": "nvidia2024cudaq",
+ "query": "NVIDIA Corporation: CUDA-Q: An open quantum-classical programming platform (2024). url https://nvidia.github.io/cuda-quantum/",
+ "matches": [
+  {
+   "DOI": "10.7717/peerjcs.404/table-2",
+   "title": [
+    "Table 2: Memory of CUDA-capable GPU (NVIDIA, 2020a)."
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   }
+  },
+  {
+   "DOI": "10.17117/nv.2014.02.155",
+   "title": [
+    "Parallelization of the conjugate gradient method using the technology NVidia Cuda"
+   ],
+   "author": [
+    {
+     "given": "G.R.",
+     "family": "Shangareeva",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "S.A.",
+     "family": "Mustafina",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Scientific Bulletin"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2014
+     ]
+    ]
+   },
+   "page": "155-162"
+  },
+  {
+   "DOI": "10.26089/nummet.v18r326",
+   "title": [
+    "Acceleration of seismic data processing with wave-packet decomposition using NVidia CUDA"
+   ],
+   "author": [
+    {
+     "given": "\u0412.\u0412.",
+     "family": "\u041d\u0438\u043a\u0438\u0442\u0438\u043d",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7876-6685",
+     "authenticated-orcid": false,
+     "given": "\u0410.\u0410.",
+     "family": "\u0414\u0443\u0447\u043a\u043e\u0432",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "\u0424.",
+     "family": "\u0410\u043d\u0434\u0435\u0440\u0441\u0441\u043e\u043d",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Numerical Methods and Programming (Vychislitel'nye Metody i Programmirovanie)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      8,
+      31
+     ]
+    ]
+   },
+   "page": "293-311"
+  }
+ ],
+ "error": null
+}

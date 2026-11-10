@@ -1,0 +1,158 @@
+{
+ "key": "khalid2016fpga",
+ "query": "Khalid, A.U., Zilic, Z., Radecka, K.: FPGA emulation of quantum circuits. In: Proc. IEEE International Conference on Computer Design (ICCD), pp. 310--315 (2004)",
+ "matches": [
+  {
+   "DOI": "10.1109/iccd.2004.1347938",
+   "title": [
+    "FPGA emulation of quantum circuits"
+   ],
+   "author": [
+    {
+     "given": "A.U.",
+     "family": "Khalid",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Z.",
+     "family": "Zilic",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "K.",
+     "family": "Radecka",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "IEEE International Conference on Computer Design: VLSI in Computers and Processors, 2004. ICCD 2004. Proceedings."
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "page": "310-315"
+  },
+  {
+   "DOI": "10.1109/iccd.2001.955050",
+   "title": [
+    "Arithmetic transforms for verifying compositions of sequential datapaths"
+   ],
+   "author": [
+    {
+     "given": "K.",
+     "family": "Radecka",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Z.",
+     "family": "Zilic",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings 2001 IEEE International Conference on Computer Design: VLSI in Computers and Processors. ICCD 2001"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "page": "348-353"
+  },
+  {
+   "DOI": "10.1109/isqed65160.2025.11014465",
+   "title": [
+    "An FPGA-based Emulation Process for Dynamic Quantum Circuits"
+   ],
+   "author": [
+    {
+     "given": "Yicheng",
+     "family": "Song",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "McGill University,Montreal,Quebec,Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zeljko",
+     "family": "Zilic",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "McGill University,Montreal,Quebec,Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "2025 26th International Symposium on Quality Electronic Design (ISQED)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      4,
+      23
+     ]
+    ]
+   },
+   "page": "1-8"
+  }
+ ],
+ "error": null
+}
