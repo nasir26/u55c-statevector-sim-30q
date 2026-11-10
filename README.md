@@ -51,7 +51,7 @@ kernel this work replaces), `docs/PROVENANCE.md` (where each part came from).
 | `logs/` | build logs read by the table generator, functional suite and campaign logs, host inventory |
 | `setup/` | exact environment specifications (`env_fpga.yml`, `env_cpu.yml`) and `setup.sh` |
 | `scripts/` | bitstream download, reproduction check, lint, paper build, environment capture |
-| `docs/` | architecture, code map, baseline audit, provenance, known differences |
+| `docs/` | architecture, code map, baseline audit, provenance, differences from the submitted manuscript |
 
 ## Quick start (no FPGA needed)
 
@@ -80,8 +80,9 @@ environments: `docker build -t sv30q . && docker run --rm sv30q` (also usable as
 | Tables and figures | `make reproduce` | regenerates `results/processed/`, `paper/generated/` and the eight figures, then compares them with the committed (submitted) versions; figures are compared by content, ignoring creation dates |
 | Manuscript | `make paper` (needs latexmk and pdflatex) | builds `build/paper/main.pdf` from the regenerated numbers and figures |
 
-Every output matches the submitted manuscript except four macros of the analytical power model check, explained in
-`docs/KNOWN_DIFFERENCES.md`; `make reproduce` reports them and fails on any other difference.
+Every regenerated output matches the committed one, and `make reproduce` fails on any difference. Four macros of the
+analytical power model check differ from the submitted manuscript because they were recomputed from the committed raw
+data (`docs/KNOWN_DIFFERENCES.md`).
 
 ### With hardware
 

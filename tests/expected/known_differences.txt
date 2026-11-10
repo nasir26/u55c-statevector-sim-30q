@@ -1,7 +1,2 @@
-# Regenerated outputs that are allowed to differ from the committed (submitted) ones. Format: <path> [<line prefix>]
-# Explanation in docs/KNOWN_DIFFERENCES.md.
-results/processed/power_model_check.csv
-paper/generated/macros.tex \newcommand{\NumModelPowerErrMin}
-paper/generated/macros.tex \newcommand{\NumModelPowerErrMax}
-paper/generated/macros.tex \newcommand{\NumModelEnergyErrMin}
-paper/generated/macros.tex \newcommand{\NumModelEnergyErrMax}
+# Regenerated outputs that are allowed to differ from the committed ones. Format: <path> [<line prefix>]
+# None since v1.0.1: the power model check was recomputed from the committed raw data (docs/KNOWN_DIFFERENCES.md).

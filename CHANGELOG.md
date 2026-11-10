@@ -2,6 +2,12 @@
 
 All notable changes to this repository. Versions follow [Semantic Versioning](https://semver.org/).
 
+## [1.0.1] - 2026-11-10
+
+- Fixed: the analytical power model check is recomputed from the committed raw data (power error 47 to 51 %,
+  energy error 338 to 537 %; the submitted manuscript has 55 to 58 % and 358 to 579 % from an earlier run). See
+  `docs/KNOWN_DIFFERENCES.md`. `make reproduce` now has no allowed differences.
+
 ## [1.0.0] - 2026-11-09
 
 First release of the repository, assembled from the revision of the 30 qubit paper (resubmitted to The Journal of
