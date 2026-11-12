@@ -23,7 +23,7 @@ export PYTHONNOUSERSITE        := 1
 export MPLCONFIGDIR            ?= $(CURDIR)/$(BUILD)/mplconfig
 export FIG_OUT                 := $(CURDIR)/$(BUILD)/figures
 
-.PHONY: help setup lint test reproduce tables figures check paper csim bitstreams hw-suite clean
+.PHONY: help setup lint test reproduce tables figures check paper paper-submitted csim bitstreams hw-suite clean
 
 help:
 	@echo "Hardware free:"
@@ -32,6 +32,7 @@ help:
 	@echo "  make test        compiler and golden model vs Qiskit (2112 cases), runtime on a mocked XRT"
 	@echo "  make reproduce   regenerate every table, macro and figure from results/raw and compare with the committed ones"
 	@echo "  make paper       build the manuscript PDF from the regenerated numbers (needs latexmk)"
+	@echo "  make paper-submitted  build the manuscript exactly as submitted (paper/manuscript/)"
 	@echo "Needs Vitis 2023.2 / an Alveo U55C:"
 	@echo "  make csim        C simulation of the engine kernel against the golden model (g++ with the Vitis HLS headers)"
 	@echo "  make bitstreams  download the release bitstreams and check their SHA-256"
@@ -64,6 +65,12 @@ check:
 
 paper: tables figures
 	scripts/build_paper.sh "$(FIG_OUT)" "$(BUILD)/paper"
+
+# the manuscript as submitted (paper/manuscript/, self-contained); not regenerated from the data
+paper-submitted:
+	mkdir -p build/paper-submitted
+	cd paper/manuscript && latexmk -pdf -interaction=nonstopmode -halt-on-error -outdir=../../build/paper-submitted manuscript.tex
+	@echo "manuscript as submitted: build/paper-submitted/manuscript.pdf"
 
 $(BUILD)/sv_tb: kernels/sv/sv_engine.cpp kernels/sv/tb.cpp
 	@test -f $(XILINX_HLS)/include/ap_int.h || { echo "set XILINX_HLS to a Vitis HLS install (needs include/ap_int.h)"; exit 2; }
